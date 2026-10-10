@@ -198,7 +198,7 @@ Released in 2005, *Megher Deshe* ("In the Land of Clouds") is Bassbaba Sumon's i
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%2BAmi%2B-5BArtwork-5D.jpg" width="300" alt="Ekhon Ami Album Cover" />
+  <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BArtwork%5D.jpg" width="300" alt="Ekhon Ami Album Cover" />
 </p>
 
 ### 📖 About the Album
@@ -222,7 +222,7 @@ One of the most monumental duets in Bangladeshi musical history, *Ekhon Ami* pai
 
 | | |
 | :---: | :---: |
-| <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BFront-Back%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%2BAmi%2B-5BArtwork-5D.jpg" width="300" alt="2. Gatefold Artwork" /><br><sub><b>2. Gatefold Artwork</b></sub> |
+| <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BFront-Back%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BArtwork%5D.jpg" width="300" alt="2. Gatefold Artwork" /><br><sub><b>2. Gatefold Artwork</b></sub> |
 | <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BLyrics%5D.jpg" width="300" alt="3. Booklet & Lyrics" /><br><sub><b>3. Booklet & Lyrics</b></sub> | <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BInlay-1%5D.jpg" width="300" alt="4. Inlay (Part 1)" /><br><sub><b>4. Inlay (Part 1)</b></sub> |
 | <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BInlay-2%5D.jpg" width="300" alt="5. Inlay (Part 2)" /><br><sub><b>5. Inlay (Part 2)</b></sub> | <img src="Bassbaba%20Sumon/Ekhon%20Ami/Album%20Cover/Ekhon%20Ami%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 
