@@ -24,7 +24,7 @@
 8. [Megher Deshe (মেঘের দেশে) (2005)](#8-megher-deshe-2005)
 9. [Boka Manushta (বোকা মানুষটা) (2007)](#9-boka-manushta-2007)
 10. [Ekhon Ami (এখন আমি) (Sumon & Anila) (2007)](#10-ekhon-ami-2007)
-11. [Live Now (লাইভ নাউ) (2007)](#11-live-now-2007)
+11. [Live Now (লাইভ নাও) (2007)](#11-live-now-2007)
 12. [Neon Aloy Shagotom (নিয়ন আলোয় স্বাগতম) (2007)](#12-neon-aloy-shagotom-2007)
 13. [Singles & Standalone Releases](#13-singles--standalone-releases)
 14. [Bonno (বন্য) (2008)](#14-bonno-2008)
@@ -453,15 +453,15 @@ One of the most monumental duets in Bangladeshi musical history, *Ekhon Ami* pai
 ---
 
 <a id="11-live-now-2007"></a>
-## 11. Live Now (লাইভ নাউ) (2007)
+## 11. Live Now (লাইভ নাও) (2007)
 
-- **Album:** Live Now (লাইভ নাউ)
+- **Album:** Live Now (লাইভ নাও)
 - **Release Year:** 2007
 - **Record Label:** G-Series
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BFront-Back%5D.jpg" width="300" alt="Live Now (লাইভ নাউ) (2007) Cover" />
+  <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BFront-Back%5D.jpg" width="300" alt="Live Now (লাইভ নাও) (2007) Cover" />
 </p>
 
 ### 📖 About the Album
