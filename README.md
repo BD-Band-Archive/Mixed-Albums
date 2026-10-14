@@ -82,6 +82,7 @@ A historic underground compilation album released in 2002 under G-Series featuri
 
 ---
 
+<a id="2-agontuk-1-2003"></a><a id="agontuk-1-2003"></a>
 ## 2. Agontuk 1 (আগন্তুক ১) (2003)
 - **Album:** Agontuk 1 (আগন্তুক ১)
 - **Release Year:** 2003
@@ -121,6 +122,7 @@ The legendary first installment of the Agontuk mixed album series produced by Iq
 
 ---
 
+<a id="3-agontuk-2-2004"></a><a id="agontuk-2-2004"></a>
 ## 3. Agontuk 2 (আগন্তুক ২) (2004)
 - **Album:** Agontuk 2 (আগন্তুক ২)
 - **Release Year:** 2004
@@ -161,6 +163,7 @@ The monumental second chapter of the Agontuk series released under Soundtek in 2
 
 ---
 
+<a id="4-din-bodol-2004"></a><a id="din-bodol-2004"></a>
 ## 4. Din Bodol (দিন বদল) (2004)
 - **Album:** Din Bodol (দিন বদল)
 - **Release Year:** 2004
@@ -206,6 +209,7 @@ A milestone 19-track Bangladeshi mixed rock album released in 2004, spearheaded 
 
 ---
 
+<a id="5-shopnochura-2004"></a><a id="shopnochura-2004"></a>
 ## 5. Shopnochura (স্বপ্নচূড়া) (2004)
 - **Album:** Shopnochura (স্বপ্নচূড়া)
 - **Release Year:** 2004
@@ -290,6 +294,7 @@ The thrilling third installment of the Agontuk saga released in 2005 under Sound
 
 ---
 
+<a id="7-shopnochura-2-2005"></a><a id="shopnochura-2-2005"></a>
 ## 7. Shopnochura 2 (স্বপ্নচূড়া ২) (2005)
 - **Album:** Shopnochura 2 (স্বপ্নচূড়া ২)
 - **Release Year:** 2005
@@ -373,6 +378,7 @@ A landmark 2007 compilation album presented by G-Series bringing together elite 
 
 ---
 
+<a id="9-neon-aloy-shagotom-2007"></a><a id="neon-aloy-shagotom-2007"></a>
 ## 9. Neon Aloy Shagotom (নিয়ন আলোয় স্বাগতম) (2007)
 - **Album:** Neon Aloy Shagotom (নিয়ন আলোয় স্বাগতম)
 - **Release Year:** 2007
@@ -414,6 +420,7 @@ A pathbreaking alternative and indie rock compilation released in 2007 by G-Seri
 
 ---
 
+<a id="10-shopnochura-3-2007"></a><a id="shopnochura-3-2007"></a>
 ## 10. Shopnochura 3 (স্বপ্নচূড়া ৩) (2007)
 - **Album:** Shopnochura 3 (স্বপ্নচূড়া ৩)
 - **Release Year:** 2007
@@ -542,6 +549,7 @@ A powerhouse 2008 Bangladeshi rock compilation album featuring heavyweight track
 
 ---
 
+<a id="13-rock-202-2009"></a><a id="rock-202-2009"></a>
 ## 13. Rock 202 (রক ২০২) (2009)
 - **Album:** Rock 202 (রক ২০২)
 - **Release Year:** 2009
@@ -943,6 +951,7 @@ Released in October 2012 under G-Series and coordinated by Duray, *Hatiar* (*"Th
 
 ---
 
+<a id="21-shopnochura-4-2014"></a><a id="shopnochura-4-2014"></a>
 ## 21. Shopnochura 4 (স্বপ্নচূড়া ৪) (2014)
 - **Album:** Shopnochura 4 (স্বপ্নচূড়া ৪)
 - **Release Year:** 2014
