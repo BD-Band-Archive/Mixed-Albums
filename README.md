@@ -1100,6 +1100,15 @@ The milestone tenth volume of the *Rock* series, delivering 11 tracks including 
 
 ---
 
+### 🖼️ Album Artwork
+
+<p align="center">
+  <img src="Rock%20X0X%20%282015%29/Album%20Cover/Rock%20X0X%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
+  <sub><b>Front Cover (Digital Master Scan)</b></sub>
+</p>
+
+---
+
 ### 📦 Git LFS & Downloading Audio
 
 All audio tracks in this repository are managed via **Git LFS** (Large File Storage).
@@ -1111,11 +1120,8 @@ All audio tracks in this repository are managed via **Git LFS** (Large File Stor
   git clone https://github.com/GhostDog45/Mixed-Albums.git
   ```
 
-### 🖼️ Album Artwork
-
-<p align="center">
-  <img src="Rock%20X0X%20%282015%29/Album%20Cover/Rock%20X0X%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
-  <sub><b>Front Cover (Digital Master Scan)</b></sub>
-</p>
 
 ---
+
+### 🙏 Special Thanks & Gratitude
+Heartfelt gratitude to **Shohail Ibne Mahbub (XTR)** for his monumental passion and dedication in keeping Bangladeshi band music alive. Through his archival project [**Bangla CD Covers**](https://banglacdcovers.blogspot.com/), he has painstakingly collected, preserved, and scanned original physical CDs and cassette tapes, ensuring that the legacy, artwork, and history of Bangladesh's rock and band movement remain preserved for generations of music lovers.
