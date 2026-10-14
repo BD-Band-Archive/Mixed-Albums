@@ -42,15 +42,15 @@
 ---
 
 <a id="2-onushilon-2002"></a><a id="1-onushilon-2002"></a>
-## 1. Onushilon (অনুশীলন) (2002)
 
+## 1. Onushilon (অনুশীলন) (2002)
 - **Album:** Onushilon (অনুশীলন)
 - **Release Year:** 2002
 - **Record Label:** G-Series
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BFront-Back%5D.jpg" width="300" alt="Onushilon (অনুশীলন) (2002) Cover" />
+  <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BFront-Back%5D.jpg" width="300" alt="Onushilon (2002) Cover" />
 </p>
 
 ### 📖 About the Album
@@ -75,20 +75,21 @@ A historic underground compilation album released in 2002 under G-Series featuri
 ### 🖼️ Album Artwork
 
 | | |
-| :
+| :---: | :---: |
+| <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BCD%5D.jpg" width="300" alt="1. CD" /><br><sub><b>1. CD</b></sub> | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BFront-Back%5D.jpg" width="300" alt="2. Front-Back" /><br><sub><b>2. Front-Back</b></sub> |
+| <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BFront%5D.jpg" width="300" alt="3. Front" /><br><sub><b>3. Front</b></sub> | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BFront%5D_2.jpg" width="300" alt="4. Front" /><br><sub><b>4. Front</b></sub> |
+| <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BInset%5D.jpg" width="300" alt="5. Inset" /><br><sub><b>5. Inset</b></sub> | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BLyrics%5D.jpg" width="300" alt="6. Lyrics" /><br><sub><b>6. Lyrics</b></sub> |
 
 ---
 
-<a id="4-agontuk-1-2003"></a><a id="2-agontuk-1-2003"></a>
 ## 2. Agontuk 1 (আগন্তুক ১) (2003)
-
 - **Album:** Agontuk 1 (আগন্তুক ১)
 - **Release Year:** 2003
 - **Record Label:** Soundtek
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%2B%5BFront%5D.jpg" width="300" alt="Agontuk 1 (আগন্তুক ১) (2003) Cover" />
+  <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BFront%5D.jpg" width="300" alt="Agontuk 1 (2003) Cover" />
 </p>
 
 ### 📖 About the Album
@@ -113,20 +114,21 @@ The legendary first installment of the Agontuk mixed album series produced by Iq
 ### 🖼️ Album Artwork
 
 | | |
-| :
+| :---: | :---: |
+| <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BBack%5D.jpg" width="300" alt="1. Back" /><br><sub><b>1. Back</b></sub> | <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BCD%5D.jpg" width="300" alt="2. CD" /><br><sub><b>2. CD</b></sub> |
+| <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BFront%5D.jpg" width="300" alt="3. Front" /><br><sub><b>3. Front</b></sub> | <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BInset-1%5D.jpg" width="300" alt="4. Inset-1" /><br><sub><b>4. Inset-1</b></sub> |
+| <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BInset-2%5D.jpg" width="300" alt="5. Inset-2" /><br><sub><b>5. Inset-2</b></sub> |  |
 
 ---
 
-<a id="5-agontuk-2-2004"></a><a id="3-agontuk-2-2004"></a>
 ## 3. Agontuk 2 (আগন্তুক ২) (2004)
-
 - **Album:** Agontuk 2 (আগন্তুক ২)
 - **Release Year:** 2004
 - **Record Label:** Soundtek
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BFront%5D.jpg" width="300" alt="Agontuk 2 (আগন্তুক ২) (2004) Cover" />
+  <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BFront-Back%5D.jpg" width="300" alt="Agontuk 2 (2004) Cover" />
 </p>
 
 ### 📖 About the Album
@@ -152,19 +154,20 @@ The monumental second chapter of the Agontuk series released under Soundtek in 2
 ### 🖼️ Album Artwork
 
 | | |
-| :
+| :---: | :---: |
+| <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BBooklet%5D.jpg" width="300" alt="1. Booklet" /><br><sub><b>1. Booklet</b></sub> | <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BCD%5D.jpg" width="300" alt="2. CD" /><br><sub><b>2. CD</b></sub> |
+| <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BFront-Back%5D.jpg" width="300" alt="3. Front-Back" /><br><sub><b>3. Front-Back</b></sub> | <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BFront%5D.jpg" width="300" alt="4. Front" /><br><sub><b>4. Front</b></sub> |
+| <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BInlay%5D.jpg" width="300" alt="5. Inlay" /><br><sub><b>5. Inlay</b></sub> |  |
 
 ---
 
-<a id="6-din-bodol-2004"></a><a id="4-din-bodol-2004"></a>
 ## 4. Din Bodol (দিন বদল) (2004)
-
 - **Album:** Din Bodol (দিন বদল)
 - **Release Year:** 2004
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BFront%5D.jpg" width="300" alt="Din Bodol (দিন বদল) (2004) Cover" />
+  <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BFront%5D.jpg" width="300" alt="Din Bodol (2004) Cover" />
 </p>
 
 ### 📖 About the Album
@@ -195,17 +198,23 @@ A milestone 19-track Bangladeshi mixed rock album released in 2004, spearheaded 
 ### 🖼️ Album Artwork
 
 | | |
-| :
+| :---: | :---: |
+| <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BBack%5D.jpg" width="300" alt="1. Back" /><br><sub><b>1. Back</b></sub> | <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BFront%5D.jpg" width="300" alt="2. Front" /><br><sub><b>2. Front</b></sub> |
+| <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-1%5D.jpg" width="300" alt="3. Inset-1" /><br><sub><b>3. Inset-1</b></sub> | <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-2%5D.jpg" width="300" alt="4. Inset-2" /><br><sub><b>4. Inset-2</b></sub> |
+| <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-3%5D.jpg" width="300" alt="5. Inset-3" /><br><sub><b>5. Inset-3</b></sub> | <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-4%5D.jpg" width="300" alt="6. Inset-4" /><br><sub><b>6. Inset-4</b></sub> |
+| <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-5%5D.jpg" width="300" alt="7. Inset-5" /><br><sub><b>7. Inset-5</b></sub> |  |
 
 ---
 
-<a id="shopnochura-2004"></a><a id="5-shopnochura-2004"></a>
 ## 5. Shopnochura (স্বপ্নচূড়া) (2004)
-
 - **Album:** Shopnochura (স্বপ্নচূড়া)
 - **Release Year:** 2004
 - **Record Label:** G-Series
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront-Back%5D.jpg" width="300" alt="Shopnochura (2004) Cover" />
+</p>
 
 ### 📖 About the Album
 The historic debut installment of the milestone *Shopnochura* ("Dream Peak") series coordinated by Tony (Black) and released under G-Series in 2004. This landmark compilation brought together leading alternative and underground rock acts, featuring defining anthems such as Aurthohin's *"Epitaph"*, Black's *"Dak"*, and Highway's *"Kemon Jeno"*.
@@ -230,15 +239,24 @@ The historic debut installment of the milestone *Shopnochura* ("Dream Peak") ser
 ---
 
 <a id="7-agontuk-3-2005"></a><a id="6-agontuk-3-2005"></a>
-## 6. Agontuk 3 (আগন্তুক ৩) (2005)
 
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BCD%5D.jpg" width="300" alt="1. CD" /><br><sub><b>1. CD</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront-Back%5D.jpg" width="300" alt="2. Front-Back" /><br><sub><b>2. Front-Back</b></sub> |
+| <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront%5D.jpg" width="300" alt="3. Front" /><br><sub><b>3. Front</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BInlay%5D.jpg" width="300" alt="4. Inlay" /><br><sub><b>4. Inlay</b></sub> |
+
+---
+
+## 6. Agontuk 3 (আগন্তুক ৩) (2005)
 - **Album:** Agontuk 3 (আগন্তুক ৩)
 - **Release Year:** 2005
 - **Record Label:** Soundtek
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BFront%5D.jpg" width="300" alt="Agontuk 3 (আগন্তুক ৩) (2005) Cover" />
+  <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BFront%5D.jpg" width="300" alt="Agontuk 3 (2005) Cover" />
 </p>
 
 ### 📖 About the Album
@@ -265,17 +283,22 @@ The thrilling third installment of the Agontuk saga released in 2005 under Sound
 ### 🖼️ Album Artwork
 
 | | |
-| :
+| :---: | :---: |
+| <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BBack%5D.jpg" width="300" alt="1. Back" /><br><sub><b>1. Back</b></sub> | <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BBooklet-1%5D.jpg" width="300" alt="2. Booklet-1" /><br><sub><b>2. Booklet-1</b></sub> |
+| <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BBooklet-2%5D.jpg" width="300" alt="3. Booklet-2" /><br><sub><b>3. Booklet-2</b></sub> | <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BFront%5D.jpg" width="300" alt="4. Front" /><br><sub><b>4. Front</b></sub> |
+| <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BInlay%5D.jpg" width="300" alt="5. Inlay" /><br><sub><b>5. Inlay</b></sub> |  |
 
 ---
 
-<a id="shopnochura-2-2005"></a><a id="7-shopnochura-2-2005"></a>
 ## 7. Shopnochura 2 (স্বপ্নচূড়া ২) (2005)
-
 - **Album:** Shopnochura 2 (স্বপ্নচূড়া ২)
 - **Release Year:** 2005
 - **Record Label:** G-Series
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront-Back%5D.jpg" width="300" alt="Shopnochura (2004) Cover" />
+</p>
 
 ### 📖 About the Album
 The acclaimed second volume of the *Shopnochura* series released in 2005 under G-Series. Features 12 seminal alternative rock and melodic rock anthems, highlighted by Black's powerful track *"Ondho"*, Shironamhin's *"Godhuly"*, and X Factor's *"Opurnotaa"*.
@@ -299,15 +322,24 @@ The acclaimed second volume of the *Shopnochura* series released in 2005 under G
 ---
 
 <a id="11-live-now-2007"></a><a id="8-live-now-2007"></a>
-## 8. Live Now (লাইভ নাও) (2007)
 
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BCD%5D.jpg" width="300" alt="1. CD" /><br><sub><b>1. CD</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront-Back%5D.jpg" width="300" alt="2. Front-Back" /><br><sub><b>2. Front-Back</b></sub> |
+| <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront%5D.jpg" width="300" alt="3. Front" /><br><sub><b>3. Front</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BInlay%5D.jpg" width="300" alt="4. Inlay" /><br><sub><b>4. Inlay</b></sub> |
+
+---
+
+## 8. Live Now (লাইভ নাও) (2007)
 - **Album:** Live Now (লাইভ নাও)
 - **Release Year:** 2007
 - **Record Label:** G-Series
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BFront-Back%5D.jpg" width="300" alt="Live Now (লাইভ নাও) (2007) Cover" />
+  <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BFront-Back%5D.jpg" width="300" alt="Live Now (2007) Cover" />
 </p>
 
 ### 📖 About the Album
@@ -334,20 +366,21 @@ A landmark 2007 compilation album presented by G-Series bringing together elite 
 ### 🖼️ Album Artwork
 
 | | |
-| :
+| :---: | :---: |
+| <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BBooklet-1%5D.jpg" width="300" alt="1. Booklet-1" /><br><sub><b>1. Booklet-1</b></sub> | <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BBooklet-2%5D.jpg" width="300" alt="2. Booklet-2" /><br><sub><b>2. Booklet-2</b></sub> |
+| <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BBooklet-3%5D.jpg" width="300" alt="3. Booklet-3" /><br><sub><b>3. Booklet-3</b></sub> | <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BBooklet-4%5D.jpg" width="300" alt="4. Booklet-4" /><br><sub><b>4. Booklet-4</b></sub> |
+| <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BCD%5D.jpg" width="300" alt="5. CD" /><br><sub><b>5. CD</b></sub> | <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BFront-Back%5D.jpg" width="300" alt="6. Front-Back" /><br><sub><b>6. Front-Back</b></sub> |
 
 ---
 
-<a id="12-neon-aloy-shagotom-2007"></a><a id="9-neon-aloy-shagotom-2007"></a>
 ## 9. Neon Aloy Shagotom (নিয়ন আলোয় স্বাগতম) (2007)
-
 - **Album:** Neon Aloy Shagotom (নিয়ন আলোয় স্বাগতম)
 - **Release Year:** 2007
 - **Record Label:** G-Series
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BFront%5D.jpg" width="300" alt="Neon Aloy Shagotom (নিয়ন আলোয় স্বাগতম) (2007) Cover" />
+  <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BArtwork%5D.jpg" width="300" alt="Neon Aloy Shagotom (2007) Cover" />
 </p>
 
 ### 📖 About the Album
@@ -372,17 +405,24 @@ A pathbreaking alternative and indie rock compilation released in 2007 by G-Seri
 ### 🖼️ Album Artwork
 
 | | |
-| :
+| :---: | :---: |
+| <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BArtwork%5D.jpg" width="300" alt="1. Artwork" /><br><sub><b>1. Artwork</b></sub> | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BBack%5D.jpg" width="300" alt="2. Back" /><br><sub><b>2. Back</b></sub> |
+| <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BBooklet-1%5D.jpg" width="300" alt="3. Booklet-1" /><br><sub><b>3. Booklet-1</b></sub> | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BBooklet-2%5D.jpg" width="300" alt="4. Booklet-2" /><br><sub><b>4. Booklet-2</b></sub> |
+| <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BCD%5D.jpg" width="300" alt="5. CD" /><br><sub><b>5. CD</b></sub> | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BFront%5D.jpg" width="300" alt="6. Front" /><br><sub><b>6. Front</b></sub> |
+| <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BInlay-Back%5D.jpg" width="300" alt="7. Inlay-Back" /><br><sub><b>7. Inlay-Back</b></sub> | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BInlay-Front%5D.jpg" width="300" alt="8. Inlay-Front" /><br><sub><b>8. Inlay-Front</b></sub> |
+| <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BPoster%5D.jpg" width="300" alt="9. Poster" /><br><sub><b>9. Poster</b></sub> |  |
 
 ---
 
-<a id="shopnochura-3-2007"></a><a id="10-shopnochura-3-2007"></a>
 ## 10. Shopnochura 3 (স্বপ্নচূড়া ৩) (2007)
-
 - **Album:** Shopnochura 3 (স্বপ্নচূড়া ৩)
 - **Release Year:** 2007
 - **Record Label:** G-Series
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront-Back%5D.jpg" width="300" alt="Shopnochura (2004) Cover" />
+</p>
 
 ### 📖 About the Album
 The celebrated third edition of the *Shopnochura* series, released in 2007 under G-Series. Showcasing 13 seminal alternative tracks including Black's *"E Karonei (এ কারণেই)"*, Yaatri's *"Jonmechi Tai (জন্মেছি তাই)"*, and Shironamhin's iconic *"Train (ট্রেন)"*.
@@ -407,12 +447,25 @@ The celebrated third edition of the *Shopnochura* series, released in 2007 under
 ---
 
 <a id="14-bonno-2008"></a><a id="11-bonno-2008"></a>
-## 11. Bonno (বন্য) (2008)
 
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BCD%5D.jpg" width="300" alt="1. CD" /><br><sub><b>1. CD</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront-Back%5D.jpg" width="300" alt="2. Front-Back" /><br><sub><b>2. Front-Back</b></sub> |
+| <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront%5D.jpg" width="300" alt="3. Front" /><br><sub><b>3. Front</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BInlay%5D.jpg" width="300" alt="4. Inlay" /><br><sub><b>4. Inlay</b></sub> |
+
+---
+
+## 11. Bonno (বন্য) (2008)
 - **Album:** Bonno (বন্য) (Fuad feat. Various Artists)
 - **Release Year:** 2008
 - **Record Label:** G-Series
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Bonno%20%282008%29/Album%20Cover/Bonno%20%5BFront%5D.jpg" width="300" alt="Bonno (2008) Cover" />
+</p>
 
 ### 📖 About the Album
 Fuad Al-Muqtadir's acclaimed 2008 collaborative album featuring dynamic genre-blending tracks across rock, pop, and electronica with Arbovirus, Anila, Elita, Mila, Poonam, and Upol.
@@ -441,15 +494,24 @@ Fuad Al-Muqtadir's acclaimed 2008 collaborative album featuring dynamic genre-bl
 ---
 
 <a id="15-rock-101-2008"></a><a id="12-rock-101-2008"></a>
-## 12. Rock 101 (রক ১০১) (2008)
 
+### 🖼️ Album Artwork
+
+<p align="center">
+  <img src="Bonno%20%282008%29/Album%20Cover/Bonno%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
+  <sub><b>Front Cover (Digital Master Scan)</b></sub>
+</p>
+
+---
+
+## 12. Rock 101 (রক ১০১) (2008)
 - **Album:** Rock 101 (রক ১০১)
 - **Release Year:** 2008
 - **Record Label:** Soundtek
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Rock%20101%20%282008%29/Album%20Cover/Cover.jpg" width="300" alt="Rock 101 (রক ১০১) (2008) Cover" />
+  <img src="Rock%20101%20%282008%29/Album%20Cover/Rock%20101%20%5BFront%5D.jpg" width="300" alt="Rock 101 (2008) Cover" />
 </p>
 
 ### 📖 About the Album
@@ -473,17 +535,21 @@ A powerhouse 2008 Bangladeshi rock compilation album featuring heavyweight track
 
 ### 🖼️ Album Artwork
 
-| | |
-| :
+<p align="center">
+  <img src="Rock%20101%20%282008%29/Album%20Cover/Rock%20101%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
+  <sub><b>Front Cover (Digital Master Scan)</b></sub>
+</p>
 
 ---
 
-<a id="rock-202-2009"></a><a id="13-rock-202-2009"></a>
 ## 13. Rock 202 (রক ২০২) (2009)
-
 - **Album:** Rock 202 (রক ২০২)
 - **Release Year:** 2009
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Rock%20202%20%282009%29/Album%20Cover/Rock%20202%20%5BFront%5D.jpg" width="300" alt="Rock 202 (2009) Cover" />
+</p>
 
 ### 📖 About the Album
 The powerful second volume of the *Rock* compilation series released in 2009. Packed with 14 crushing alternative and hard rock tracks featuring Black (*"Tumi Ki Sara Debe?"*), Arbovirus (*"Keu Karo Noy"*), Mechanix (*"Dhruboshor"*), and X-Factor (*"Kobor"*).
@@ -509,11 +575,24 @@ The powerful second volume of the *Rock* compilation series released in 2009. Pa
 ---
 
 <a id="rock-303-2009"></a><a id="14-rock-303-2009"></a>
-## 14. Rock 303 (রক ৩০৩) (2009)
 
+### 🖼️ Album Artwork
+
+<p align="center">
+  <img src="Rock%20202%20%282009%29/Album%20Cover/Rock%20202%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
+  <sub><b>Front Cover (Digital Master Scan)</b></sub>
+</p>
+
+---
+
+## 14. Rock 303 (রক ৩০৩) (2009)
 - **Album:** Rock 303 (রক ৩০৩)
 - **Release Year:** 2009
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Rock%20303%20%282009%29/Album%20Cover/Rock%20303%20%5BFront%5D.jpg" width="300" alt="Rock 303 (2009) Cover" />
+</p>
 
 ### 📖 About the Album
 The third volume in the *Rock* series, delivering 14 heavy progressive rock and metal tracks, highlighted by Artcell's historic heavy metal rendition of Kazi Nazrul Islam's rebel anthem *"Kandari Hushiar"*, Kral's *"Shonga: Monushshotto"*, and Breach's *"Apon"*.
@@ -539,11 +618,24 @@ The third volume in the *Rock* series, delivering 14 heavy progressive rock and 
 ---
 
 <a id="rock-404-2010"></a><a id="15-rock-404-2010"></a>
-## 15. Rock 404 (রক ৪০৪) (2010)
 
+### 🖼️ Album Artwork
+
+<p align="center">
+  <img src="Rock%20303%20%282009%29/Album%20Cover/Rock%20303%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
+  <sub><b>Front Cover (Digital Master Scan)</b></sub>
+</p>
+
+---
+
+## 15. Rock 404 (রক ৪০৪) (2010)
 - **Album:** Rock 404 (রক ৪০৪)
 - **Release Year:** 2010
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Rock%20404%20%282010%29/Album%20Cover/Rock%20404%20%5BFront%5D.jpg" width="300" alt="Rock 404 (2010) Cover" />
+</p>
 
 ### 📖 About the Album
 The explosive fourth volume of the *Rock* series released in 2010, featuring 15 dynamic underground and heavy rock tracks led by Cryptic Fate's *"Ondho"*, Mechanix's patriotic tribute *"Itihash '71"*, and X Factor's *"Rise of The Atlantis"*.
@@ -570,11 +662,24 @@ The explosive fourth volume of the *Rock* series released in 2010, featuring 15 
 ---
 
 <a id="rock-505-2010"></a><a id="16-rock-505-2010"></a>
-## 16. Rock 505 (রক ৫০৫) (2010)
 
+### 🖼️ Album Artwork
+
+<p align="center">
+  <img src="Rock%20404%20%282010%29/Album%20Cover/Rock%20404%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
+  <sub><b>Front Cover (Digital Master Scan)</b></sub>
+</p>
+
+---
+
+## 16. Rock 505 (রক ৫০৫) (2010)
 - **Album:** Rock 505 (রক ৫০৫)
 - **Release Year:** 2010
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Rock%20505%20%282010%29/Album%20Cover/Rock%20505%20%5BFront%5D.jpg" width="300" alt="Rock 505 (2010) Cover" />
+</p>
 
 ### 📖 About the Album
 The fifth edition of the powerhouse *Rock* compilation series featuring 15 relentless tracks, headlined by Black's *"Bertho Shawpno"*, Arbovirus's poignant *"Prarthona"*, Powersurge's crushing thrash assault *"Axe Of War"*, and Severe Dementia's death metal masterclass *"Shudder Thee Incensed Goddess"*.
@@ -601,11 +706,24 @@ The fifth edition of the powerhouse *Rock* compilation series featuring 15 relen
 ---
 
 <a id="16-rock-606-2011"></a><a id="17-rock-606-2011"></a>
-## 17. Rock 606 (রক ৬০৬) (2011)
 
+### 🖼️ Album Artwork
+
+<p align="center">
+  <img src="Rock%20505%20%282010%29/Album%20Cover/Rock%20505%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
+  <sub><b>Front Cover (Digital Master Scan)</b></sub>
+</p>
+
+---
+
+## 17. Rock 606 (রক ৬০৬) (2011)
 - **Album:** Rock 606 (রক ৬০৬)
 - **Release Year:** 2011
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Rock%20606%20%282011%29/Album%20Cover/Rock%20606%20%5BFront%5D.jpg" width="300" alt="Rock 606 (2011) Cover" />
+</p>
 
 ### 📖 About the Album
 A high-octane 2011 Bangladeshi rock compilation featuring 16 dynamic bands, highlighted by Black ("Fera"), Arbovirus ("Agontuk"), and Král ("Shurjaioner Shuru").
@@ -632,11 +750,24 @@ A high-octane 2011 Bangladeshi rock compilation featuring 16 dynamic bands, high
 ---
 
 <a id="rock-707-2011"></a><a id="18-rock-707-2011"></a>
-## 18. Rock 707 (রক ৭০৭) (2011)
 
+### 🖼️ Album Artwork
+
+<p align="center">
+  <img src="Rock%20606%20%282011%29/Album%20Cover/Rock%20606%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
+  <sub><b>Front Cover (Digital Master Scan)</b></sub>
+</p>
+
+---
+
+## 18. Rock 707 (রক ৭০৭) (2011)
 - **Album:** Rock 707 (রক ৭০৭)
 - **Release Year:** 2011
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Rock%20707%20%282011%29/Album%20Cover/Rock%20707%20%5BFront%5D.jpg" width="300" alt="Rock 707 (2011) Cover" />
+</p>
 
 ### 📖 About the Album
 The seventh volume of the legendary *Rock* series released in 2011, featuring 16 heavy and alternative rock bands including Powersurge (*"Jackal In Hide"*), Karnival (*"Obaddho Bashona"*), Shrapnel Method (*"Autripto"*), and X Factor (*"Tomar Jonno"*).
@@ -664,11 +795,24 @@ The seventh volume of the legendary *Rock* series released in 2011, featuring 16
 ---
 
 <a id="shomorpon-2011"></a><a id="19-shomorpon-2011"></a>
-## 19. Shomorpon (সমর্পণ) (2011)
 
+### 🖼️ Album Artwork
+
+<p align="center">
+  <img src="Rock%20707%20%282011%29/Album%20Cover/Rock%20707%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
+  <sub><b>Front Cover (Digital Master Scan)</b></sub>
+</p>
+
+---
+
+## 19. Shomorpon (সমর্পণ) (2011)
 - **Album:** Shomorpon (সমর্পণ)
 - **Release Year:** 2011
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Shomorpon%20%282011%29/Album%20Cover/Shomorpon%20%5BFront%5D.jpg" width="300" alt="Shomorpon (2011) Cover" />
+</p>
 
 ### 📖 About the Album
 A landmark 2011 tribute compilation album dedicated to mystic bards **Lalon Shah** and **Hason Raja**, featuring modern progressive rock, hard rock, and fusion arrangements performed by heavyweight bands **Warfaze**, **Habib Wahid**, and **Aurthohin**.
@@ -687,8 +831,17 @@ A landmark 2011 tribute compilation album dedicated to mystic bards **Lalon Shah
 ---
 
 <a id="17-hatiar-2012"></a><a id="20-hatiar-2012"></a>
-## 20. Hatiar (হাতিয়ার) (2012)
 
+### 🖼️ Album Artwork
+
+<p align="center">
+  <img src="Shomorpon%20%282011%29/Album%20Cover/Shomorpon%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
+  <sub><b>Front Cover (Digital Master Scan)</b></sub>
+</p>
+
+---
+
+## 20. Hatiar (হাতিয়ার) (2012)
 - **Album:** Hatiar (হাতিয়ার) — *The Largest Band Mixed Album in History*
 - **Release Year:** 2012
 - **Coordinator:** Duray
@@ -697,7 +850,7 @@ A landmark 2011 tribute compilation album dedicated to mystic bards **Lalon Shah
 - **Audio Quality:** Lossless WAV (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Hatiar%20(2012)/Album%20Cover/Artwork.jpg" width="300" alt="Hatiar (হাতিয়ার) (2012) Cover" />
+  <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BFront%5D.jpg" width="300" alt="Hatiar (2012) Cover" />
 </p>
 
 ### 📖 About the Album
@@ -784,18 +937,21 @@ Released in October 2012 under G-Series and coordinated by Duray, *Hatiar* (*"Th
 ### 🖼️ Album Artwork
 
 | | |
-| :
-
+| :---: | :---: |
+| <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BBack%5D.jpg" width="300" alt="1. Back" /><br><sub><b>1. Back</b></sub> | <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BCD%5D.jpg" width="300" alt="2. CD" /><br><sub><b>2. CD</b></sub> |
+| <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BFront%5D.jpg" width="300" alt="3. Front" /><br><sub><b>3. Front</b></sub> | <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BInlet%5D.jpg" width="300" alt="4. Inlet" /><br><sub><b>4. Inlet</b></sub> |
 
 ---
 
-<a id="shopnochura-4-2014"></a><a id="21-shopnochura-4-2014"></a>
 ## 21. Shopnochura 4 (স্বপ্নচূড়া ৪) (2014)
-
 - **Album:** Shopnochura 4 (স্বপ্নচূড়া ৪)
 - **Release Year:** 2014
 - **Record Label:** G-Series
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront-Back%5D.jpg" width="300" alt="Shopnochura (2004) Cover" />
+</p>
 
 ### 📖 About the Album
 Released in 2014 under G-Series and coordinated by Tony, *Shopnochura 4* marked the grand return of the franchise, presenting 11 tracks from veteran alternative bands and fresh talents, led by Black's emotive masterpiece *"Kar Jonne"*, Yaatri's *"Ora Bodle Geche"*, and Project Neon's *"Olosh Poka"*.
@@ -818,11 +974,24 @@ Released in 2014 under G-Series and coordinated by Tony, *Shopnochura 4* marked 
 ---
 
 <a id="rock-808-2015"></a><a id="22-rock-808-2015"></a>
-## 22. Rock 808 (রক ৮০৮) (2015)
 
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BCD%5D.jpg" width="300" alt="1. CD" /><br><sub><b>1. CD</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront-Back%5D.jpg" width="300" alt="2. Front-Back" /><br><sub><b>2. Front-Back</b></sub> |
+| <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront%5D.jpg" width="300" alt="3. Front" /><br><sub><b>3. Front</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BInlay%5D.jpg" width="300" alt="4. Inlay" /><br><sub><b>4. Inlay</b></sub> |
+
+---
+
+## 22. Rock 808 (রক ৮০৮) (2015)
 - **Album:** Rock 808 (রক ৮০৮)
 - **Release Year:** 2015
 - **Audio Quality:** Transcoded Audio (16 kHz shelf cutoff / 16 cut - Lossy version)
+
+<p align="center">
+  <img src="Rock%20808%20%282015%29/Album%20Cover/Rock%20808%20%5BFront%5D.jpg" width="300" alt="Rock 808 (2015) Cover" />
+</p>
 
 ### 📖 About the Album
 The eighth installment of the *Rock* compilation series released in 2015, featuring 11 modern alternative and progressive tracks from Minerva, Indalo, Godmode, Bohemian, Echoes, and more.
@@ -847,11 +1016,24 @@ The eighth installment of the *Rock* compilation series released in 2015, featur
 ---
 
 <a id="rock-909-2015"></a><a id="23-rock-909-2015"></a>
-## 23. Rock 909 (রক ৯০৯) (2015)
 
+### 🖼️ Album Artwork
+
+<p align="center">
+  <img src="Rock%20808%20%282015%29/Album%20Cover/Rock%20808%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
+  <sub><b>Front Cover (Digital Master Scan)</b></sub>
+</p>
+
+---
+
+## 23. Rock 909 (রক ৯০৯) (2015)
 - **Album:** Rock 909 (রক ৯০৯)
 - **Release Year:** 2015
 - **Audio Quality:** Transcoded Audio (16 kHz shelf cutoff / 16 cut - Lossy version)
+
+<p align="center">
+  <img src="Rock%20909%20%282015%29/Album%20Cover/Rock%20909%20%5BFront%5D.jpg" width="300" alt="Rock 909 (2015) Cover" />
+</p>
 
 ### 📖 About the Album
 The ninth installment of the *Rock* compilation series, featuring 12 heavy alternative and hard rock tracks including Black's *"Omor"*, Mechanix's *"Elegy"*, Avoid Rafa's *"The Morning High"*, and Karnival's *"Oddrishsho Oleek"*.
@@ -877,11 +1059,24 @@ The ninth installment of the *Rock* compilation series, featuring 12 heavy alter
 ---
 
 <a id="rock-x0x-2015"></a><a id="24-rock-x0x-2015"></a>
-## 24. Rock X0X (রক ১০১০) (2015)
 
+### 🖼️ Album Artwork
+
+<p align="center">
+  <img src="Rock%20909%20%282015%29/Album%20Cover/Rock%20909%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
+  <sub><b>Front Cover (Digital Master Scan)</b></sub>
+</p>
+
+---
+
+## 24. Rock X0X (রক ১০১০) (2015)
 - **Album:** Rock X0X (রক ১০১০)
 - **Release Year:** 2015
 - **Audio Quality:** Transcoded Audio (16 kHz shelf cutoff / 16 cut - Lossy version)
+
+<p align="center">
+  <img src="Rock%20X0X%20%282015%29/Album%20Cover/Rock%20X0X%20%5BFront%5D.jpg" width="300" alt="Rock X0X (2015) Cover" />
+</p>
 
 ### 📖 About the Album
 The milestone tenth volume of the *Rock* series, delivering 11 tracks including X Factor's *"The Flight Of The Sparrow"*, Arbovirus's energetic anthem *"Goal"*, and Kral's *"Paapi"*.
@@ -915,3 +1110,12 @@ All audio tracks in this repository are managed via **Git LFS** (Large File Stor
   git lfs install
   git clone https://github.com/GhostDog45/Mixed-Albums.git
   ```
+
+### 🖼️ Album Artwork
+
+<p align="center">
+  <img src="Rock%20X0X%20%282015%29/Album%20Cover/Rock%20X0X%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
+  <sub><b>Front Cover (Digital Master Scan)</b></sub>
+</p>
+
+---
