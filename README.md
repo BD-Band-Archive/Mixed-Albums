@@ -957,7 +957,7 @@ Released in October 2012 under G-Series and coordinated by Duray, *Hatiar* (*"Th
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront-Back%5D.jpg" width="300" alt="Shopnochura (2004) Cover" />
+  <img src="Shopnochura%204%20%282014%29/Album%20Cover/Shopnochura%204%20%5BFront%5D.jpg" width="300" alt="Shopnochura (2004) Cover" />
 </p>
 
 ### 📖 About the Album
