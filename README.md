@@ -38,11 +38,16 @@
 22. [Rock 808 (রক ৮০৮) (2015)](#22-rock-808-2015)
 23. [Rock 909 (রক ৯০৯) (2015)](#23-rock-909-2015)
 24. [Rock X0X (রক ১০১০) (2015)](#24-rock-x0x-2015)
+25. [Hits of Metal Band Smritir Shohor (স্মৃতির শহর) (1991)](#25-hits-of-metal-band-smritir-shohor-1991)
+26. [Charpotro (ছাড়পত্র) (2001)](#26-charpotro-2001)
+27. [Projonmo (প্রজন্ম) (2002)](#27-projonmo-2002)
+28. [Lokayot (লোকাযত) (2004)](#28-lokayot-2004)
+29. [Jewel With The Stars (2006)](#29-jewel-with-the-stars-2006)
+30. [Riotous 14 (2015)](#30-riotous-14-2015)
 
 ---
 
-<a id="2-onushilon-2002"></a><a id="1-onushilon-2002"></a>
-
+<a id="1-onushilon-2002"></a><a id="2-onushilon-2002"></a><a id="onushilon-2002"></a>
 ## 1. Onushilon (অনুশীলন) (2002)
 - **Album:** Onushilon (অনুশীলন)
 - **Release Year:** 2002
@@ -82,7 +87,7 @@ A historic underground compilation album released in 2002 under G-Series featuri
 
 ---
 
-<a id="2-agontuk-1-2003"></a><a id="agontuk-1-2003"></a>
+<a id="2-agontuk-1-2003"></a><a id="4-agontuk-1-2003"></a><a id="agontuk-1-2003"></a>
 ## 2. Agontuk 1 (আগন্তুক ১) (2003)
 - **Album:** Agontuk 1 (আগন্তুক ১)
 - **Release Year:** 2003
@@ -122,7 +127,7 @@ The legendary first installment of the Agontuk mixed album series produced by Iq
 
 ---
 
-<a id="3-agontuk-2-2004"></a><a id="agontuk-2-2004"></a>
+<a id="3-agontuk-2-2004"></a><a id="5-agontuk-2-2004"></a><a id="agontuk-2-2004"></a>
 ## 3. Agontuk 2 (আগন্তুক ২) (2004)
 - **Album:** Agontuk 2 (আগন্তুক ২)
 - **Release Year:** 2004
@@ -163,7 +168,7 @@ The monumental second chapter of the Agontuk series released under Soundtek in 2
 
 ---
 
-<a id="4-din-bodol-2004"></a><a id="din-bodol-2004"></a>
+<a id="4-din-bodol-2004"></a><a id="6-din-bodol-2004"></a><a id="din-bodol-2004"></a>
 ## 4. Din Bodol (দিন বদল) (2004)
 - **Album:** Din Bodol (দিন বদল)
 - **Release Year:** 2004
@@ -242,7 +247,6 @@ The historic debut installment of the milestone *Shopnochura* ("Dream Peak") ser
 
 ---
 
-<a id="7-agontuk-3-2005"></a><a id="6-agontuk-3-2005"></a>
 
 ### 🖼️ Album Artwork
 
@@ -253,6 +257,7 @@ The historic debut installment of the milestone *Shopnochura* ("Dream Peak") ser
 
 ---
 
+<a id="6-agontuk-3-2005"></a><a id="7-agontuk-3-2005"></a><a id="agontuk-3-2005"></a>
 ## 6. Agontuk 3 (আগন্তুক ৩) (2005)
 - **Album:** Agontuk 3 (আগন্তুক ৩)
 - **Release Year:** 2005
@@ -326,7 +331,6 @@ The acclaimed second volume of the *Shopnochura* series released in 2005 under G
 
 ---
 
-<a id="11-live-now-2007"></a><a id="8-live-now-2007"></a>
 
 ### 🖼️ Album Artwork
 
@@ -337,6 +341,7 @@ The acclaimed second volume of the *Shopnochura* series released in 2005 under G
 
 ---
 
+<a id="8-live-now-2007"></a><a id="11-live-now-2007"></a><a id="live-now-2007"></a>
 ## 8. Live Now (লাইভ নাও) (2007)
 - **Album:** Live Now (লাইভ নাও)
 - **Release Year:** 2007
@@ -453,7 +458,6 @@ The celebrated third edition of the *Shopnochura* series, released in 2007 under
 
 ---
 
-<a id="14-bonno-2008"></a><a id="11-bonno-2008"></a>
 
 ### 🖼️ Album Artwork
 
@@ -466,6 +470,7 @@ The celebrated third edition of the *Shopnochura* series, released in 2007 under
 
 ---
 
+<a id="11-bonno-2008"></a><a id="14-bonno-2008"></a><a id="bonno-2008"></a>
 ## 11. Bonno (বন্য) (2008)
 - **Album:** Bonno (বন্য) (Fuad feat. Various Artists)
 - **Release Year:** 2008
@@ -502,7 +507,6 @@ Fuad Al-Muqtadir's acclaimed 2008 collaborative album featuring dynamic genre-bl
 
 ---
 
-<a id="15-rock-101-2008"></a><a id="12-rock-101-2008"></a>
 
 ### 🖼️ Album Artwork
 
@@ -512,6 +516,7 @@ Fuad Al-Muqtadir's acclaimed 2008 collaborative album featuring dynamic genre-bl
 
 ---
 
+<a id="12-rock-101-2008"></a><a id="15-rock-101-2008"></a><a id="rock-101-2008"></a>
 ## 12. Rock 101 (রক ১০১) (2008)
 - **Album:** Rock 101 (রক ১০১)
 - **Release Year:** 2008
@@ -582,7 +587,6 @@ The powerful second volume of the *Rock* compilation series released in 2009. Pa
 
 ---
 
-<a id="rock-303-2009"></a><a id="14-rock-303-2009"></a>
 
 ### 🖼️ Album Artwork
 
@@ -592,6 +596,7 @@ The powerful second volume of the *Rock* compilation series released in 2009. Pa
 
 ---
 
+<a id="14-rock-303-2009"></a><a id="rock-303-2009"></a>
 ## 14. Rock 303 (রক ৩০৩) (2009)
 - **Album:** Rock 303 (রক ৩০৩)
 - **Release Year:** 2009
@@ -624,7 +629,6 @@ The third volume in the *Rock* series, delivering 14 heavy progressive rock and 
 
 ---
 
-<a id="rock-404-2010"></a><a id="15-rock-404-2010"></a>
 
 ### 🖼️ Album Artwork
 
@@ -634,6 +638,7 @@ The third volume in the *Rock* series, delivering 14 heavy progressive rock and 
 
 ---
 
+<a id="15-rock-404-2010"></a><a id="rock-404-2010"></a>
 ## 15. Rock 404 (রক ৪০৪) (2010)
 - **Album:** Rock 404 (রক ৪০৪)
 - **Release Year:** 2010
@@ -667,7 +672,6 @@ The explosive fourth volume of the *Rock* series released in 2010, featuring 15 
 
 ---
 
-<a id="rock-505-2010"></a><a id="16-rock-505-2010"></a>
 
 ### 🖼️ Album Artwork
 
@@ -677,6 +681,7 @@ The explosive fourth volume of the *Rock* series released in 2010, featuring 15 
 
 ---
 
+<a id="16-rock-505-2010"></a><a id="rock-505-2010"></a>
 ## 16. Rock 505 (রক ৫০৫) (2010)
 - **Album:** Rock 505 (রক ৫০৫)
 - **Release Year:** 2010
@@ -710,7 +715,6 @@ The fifth edition of the powerhouse *Rock* compilation series featuring 15 relen
 
 ---
 
-<a id="16-rock-606-2011"></a><a id="17-rock-606-2011"></a>
 
 ### 🖼️ Album Artwork
 
@@ -720,6 +724,7 @@ The fifth edition of the powerhouse *Rock* compilation series featuring 15 relen
 
 ---
 
+<a id="17-rock-606-2011"></a><a id="16-rock-606-2011"></a><a id="rock-606-2011"></a>
 ## 17. Rock 606 (রক ৬০৬) (2011)
 - **Album:** Rock 606 (রক ৬০৬)
 - **Release Year:** 2011
@@ -753,7 +758,6 @@ A high-octane 2011 Bangladeshi rock compilation featuring 16 dynamic bands, high
 
 ---
 
-<a id="rock-707-2011"></a><a id="18-rock-707-2011"></a>
 
 ### 🖼️ Album Artwork
 
@@ -763,6 +767,7 @@ A high-octane 2011 Bangladeshi rock compilation featuring 16 dynamic bands, high
 
 ---
 
+<a id="18-rock-707-2011"></a><a id="rock-707-2011"></a>
 ## 18. Rock 707 (রক ৭০৭) (2011)
 - **Album:** Rock 707 (রক ৭০৭)
 - **Release Year:** 2011
@@ -797,7 +802,6 @@ The seventh volume of the legendary *Rock* series released in 2011, featuring 16
 
 ---
 
-<a id="shomorpon-2011"></a><a id="19-shomorpon-2011"></a>
 
 ### 🖼️ Album Artwork
 
@@ -807,6 +811,7 @@ The seventh volume of the legendary *Rock* series released in 2011, featuring 16
 
 ---
 
+<a id="19-shomorpon-2011"></a><a id="shomorpon-2011"></a>
 ## 19. Shomorpon (সমর্পণ) (2011)
 - **Album:** Shomorpon (সমর্পণ)
 - **Release Year:** 2011
@@ -832,7 +837,6 @@ A landmark 2011 tribute compilation album dedicated to mystic bards **Lalon Shah
 
 ---
 
-<a id="17-hatiar-2012"></a><a id="20-hatiar-2012"></a>
 
 ### 🖼️ Album Artwork
 
@@ -842,6 +846,7 @@ A landmark 2011 tribute compilation album dedicated to mystic bards **Lalon Shah
 
 ---
 
+<a id="20-hatiar-2012"></a><a id="17-hatiar-2012"></a><a id="hatiar-2012"></a>
 ## 20. Hatiar (হাতিয়ার) (2012)
 - **Album:** Hatiar (হাতিয়ার) — *The Largest Band Mixed Album in History*
 - **Release Year:** 2012
@@ -975,7 +980,6 @@ Released in 2014 under G-Series and coordinated by Tony, *Shopnochura 4* marked 
 
 ---
 
-<a id="rock-808-2015"></a><a id="22-rock-808-2015"></a>
 
 ### 🖼️ Album Artwork
 
@@ -985,6 +989,7 @@ Released in 2014 under G-Series and coordinated by Tony, *Shopnochura 4* marked 
 
 ---
 
+<a id="22-rock-808-2015"></a><a id="rock-808-2015"></a>
 ## 22. Rock 808 (রক ৮০৮) (2015)
 - **Album:** Rock 808 (রক ৮০৮)
 - **Release Year:** 2015
@@ -1016,7 +1021,6 @@ The eighth installment of the *Rock* compilation series released in 2015, featur
 
 ---
 
-<a id="rock-909-2015"></a><a id="23-rock-909-2015"></a>
 
 ### 🖼️ Album Artwork
 
@@ -1026,6 +1030,7 @@ The eighth installment of the *Rock* compilation series released in 2015, featur
 
 ---
 
+<a id="23-rock-909-2015"></a><a id="rock-909-2015"></a>
 ## 23. Rock 909 (রক ৯০৯) (2015)
 - **Album:** Rock 909 (রক ৯০৯)
 - **Release Year:** 2015
@@ -1058,7 +1063,6 @@ The ninth installment of the *Rock* compilation series, featuring 12 heavy alter
 
 ---
 
-<a id="rock-x0x-2015"></a><a id="24-rock-x0x-2015"></a>
 
 ### 🖼️ Album Artwork
 
@@ -1068,6 +1072,7 @@ The ninth installment of the *Rock* compilation series, featuring 12 heavy alter
 
 ---
 
+<a id="24-rock-x0x-2015"></a><a id="rock-x0x-2015"></a>
 ## 24. Rock X0X (রক ১০১০) (2015)
 - **Album:** Rock X0X (রক ১০১০)
 - **Release Year:** 2015
@@ -1104,6 +1109,249 @@ The milestone tenth volume of the *Rock* series, delivering 11 tracks including 
 | | |
 | :---: | :---: |
 | <img src="Rock%20X0X%20%282015%29/Album%20Cover/Rock%20X0X%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+
+---
+
+<a id="25-hits-of-metal-band-smritir-shohor-1991"></a><a id="hits-of-metal-band-smritir-shohor-1991"></a><a id="hits-of-metal-band-1991"></a>
+## 25. Hits of Metal Band Smritir Shohor (স্মৃতির শহর) (1991)
+- **Album:** Hits of Metal Band Smritir Shohor (স্মৃতির শহর) (1991)
+- **Release Year:** 1991
+- **Record Label:** Soundtek / Sargam
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/Album%20Cover/Hits%20Of%20Metal%20Band%20%5BFront%5D.jpg" width="300" alt="Hits of Metal Band Smritir Shohor (1991) Cover" />
+</p>
+
+### 📖 About the Album
+A monumental early milestone in Bangladeshi rock and heavy metal history released in 1991, featuring legendary tracks from Warfaze (*Shekhano Bornona*, *Boshe Achhi Eka*, *Ondho Jibon*, *Shwadhikar*), In Dhaka, Rockstarta, Glad Tiders, Sweet Venom, and Perspective.
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Warfaze - Shekhano Bornona**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/01%20Shekhano%20Bornona.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/01%20Shekhano%20Bornona.flac?download=true)
+- [**Rockstarta - Aartonaad**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/02%20Aartonaad.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/02%20Aartonaad.flac?download=true)
+- [**In Dhaka - Ei Raatey**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/03%20Ei%20Raatey.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/03%20Ei%20Raatey.flac?download=true)
+- [**Glad Tiders - Alokito Ondhokar**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/04%20Alokito%20Ondhokar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/04%20Alokito%20Ondhokar.flac?download=true)
+- [**Sweet Venom - Kokhono Tomai**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/05%20Kokhono%20Tomai.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/05%20Kokhono%20Tomai.flac?download=true)
+- [**Warfaze - Boshe Achhi Eka**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/06%20Boshe%20Achhi%20Eka.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/06%20Boshe%20Achhi%20Eka.flac?download=true)
+- [**Perspective - Amakey Bhebona**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/07%20Amakey%20Bhebona.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/07%20Amakey%20Bhebona.flac?download=true)
+- [**In Dhaka - Mone Porey Ki**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/08%20Mone%20Porey%20Ki.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/08%20Mone%20Porey%20Ki.flac?download=true)
+- [**Reshad - Aar Noy Shontrash**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/09%20Aar%20Noy%20Shontrash.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/09%20Aar%20Noy%20Shontrash.flac?download=true)
+- [**Glad Tiders - Prerona**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/10%20Prerona.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/10%20Prerona.flac?download=true)
+- [**Rockstarta - Shamanno Dushshwopno**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/11%20Shamanno%20Dushshwopno.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/11%20Shamanno%20Dushshwopno.flac?download=true)
+- [**Warfaze - Ondho Jibon**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/12%20Ondho%20Jibon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/12%20Ondho%20Jibon.flac?download=true)
+- [**In Dhaka - Smritir Shohor**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/13%20Smritir%20Shohor.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/13%20Smritir%20Shohor.flac?download=true)
+- [**Warfaze - Shwadhikar**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/14%20Shwadhikar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/14%20Shwadhikar.flac?download=true)
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/Album%20Cover/Hits%20Of%20Metal%20Band%20%5BBack%5D.jpg" width="300" alt="1. Hits Of Metal Band Back" /><br><sub><b>1. Hits Of Metal Band Back</b></sub> | <img src="Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/Album%20Cover/Hits%20Of%20Metal%20Band%20%5BCD%5D.jpg" width="300" alt="2. Hits Of Metal Band CD" /><br><sub><b>2. Hits Of Metal Band CD</b></sub> |
+| <img src="Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/Album%20Cover/Hits%20Of%20Metal%20Band%20%5BFront%5D.jpg" width="300" alt="3. Hits Of Metal Band Front" /><br><sub><b>3. Hits Of Metal Band Front</b></sub> | <img src="Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/Album%20Cover/Hits%20Of%20Metal%20Band%20%5BInlay%5D.jpg" width="300" alt="4. Hits Of Metal Band Inlay" /><br><sub><b>4. Hits Of Metal Band Inlay</b></sub> |
+
+---
+
+
+<a id="26-charpotro-2001"></a><a id="charpotro-2001"></a>
+## 26. Charpotro (ছাড়পত্র) (2001)
+- **Album:** Charpotro (ছাড়পত্র) (2001)
+- **Release Year:** 2001
+- **Record Label:** G-Series
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Charpotro%20%282001%29/Album%20Cover/Charpotro%20%5BFront%5D.jpg" width="300" alt="Charpotro (2001) Cover" />
+</p>
+
+### 📖 About the Album
+A historic compilation album released by G-Series in 2001 that heralded Bangladesh's golden age of alternative rock, featuring career-defining breakthrough tracks from Artcell (*Odekha Shorgo*), Aurthohin (*Attohonon*), Black (*Chena Dukkho*), Cryptic Fate (*Cholo Bangladesh*), Durey (*Shukh Ei Gaane*), and Metal Maze (*Proshno*).
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Aurthohin - Attohonon**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/01.%20Attohonon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/01.%20Attohonon.flac?download=true)
+- [**Durey - Shukh Ei Gaane**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/02.%20Shukh%20Ei%20Gaane.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/02.%20Shukh%20Ei%20Gaane.flac?download=true)
+- [**Metal Maze - Proshno**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/03.%20Proshno.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/03.%20Proshno.flac?download=true)
+- [**Artcell - Odekha Shorgo**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/04.%20Odekha%20Shorgo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/04.%20Odekha%20Shorgo.flac?download=true)
+- [**Cryptic Fate - Cholo Bangladesh**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/05.%20Cholo%20Bangladesh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/05.%20Cholo%20Bangladesh.flac?download=true)
+- [**Canopy - Jibon Mane**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/06.%20Jibon%20Mane.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/06.%20Jibon%20Mane.flac?download=true)
+- [**Faith - Bibeker Darr**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/07.%20Bibeker%20Darr.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/07.%20Bibeker%20Darr.flac?download=true)
+- [**Aashor - Maya**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/07.%20Maya.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/07.%20Maya.flac?download=true)
+- [**Black - Chena Dukkho**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/08.%20Chena%20Dukkho.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/08.%20Chena%20Dukkho.flac?download=true)
+- [**Srishty - Adhar**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/09.%20Adhar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/09.%20Adhar.flac?download=true)
+- [**Koprophillia - Bondi**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/10.%20Bondi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/10.%20Bondi.flac?download=true)
+- [**Agontuk - Station**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/11.%20Station.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/11.%20Station.flac?download=true)
+- [**Anything but Six - Eka**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/12.%20Eka.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/12.%20Eka.flac?download=true)
+- [**James - [pepsi advertisement]**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/13.%20%5Bpepsi%20advertisement%5D.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/13.%20%5Bpepsi%20advertisement%5D.flac?download=true)
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Charpotro%20%282001%29/Album%20Cover/Charporto%20%5BCD%5D.jpg" width="300" alt="1. Charporto CD" /><br><sub><b>1. Charporto CD</b></sub> | <img src="Charpotro%20%282001%29/Album%20Cover/Charpotro%20%5BBack%5D.jpg" width="300" alt="2. Charpotro Back" /><br><sub><b>2. Charpotro Back</b></sub> |
+| <img src="Charpotro%20%282001%29/Album%20Cover/Charpotro%20%5BFront%5D.jpg" width="300" alt="3. Charpotro Front" /><br><sub><b>3. Charpotro Front</b></sub> | <img src="Charpotro%20%282001%29/Album%20Cover/Charpotro%20%5BInset-1%5D.jpg" width="300" alt="4. Charpotro Inset-1" /><br><sub><b>4. Charpotro Inset-1</b></sub> |
+| <img src="Charpotro%20%282001%29/Album%20Cover/Charpotro%20%5BInset-2%5D.jpg" width="300" alt="5. Charpotro Inset-2" /><br><sub><b>5. Charpotro Inset-2</b></sub> |  |
+
+---
+
+
+<a id="27-projonmo-2002"></a><a id="projonmo-2002"></a>
+## 27. Projonmo (প্রজন্ম) (2002)
+- **Album:** Projonmo (প্রজন্ম) (2002)
+- **Release Year:** 2002
+- **Record Label:** Soundtek
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BFront%5D.jpg" width="300" alt="Projonmo (2002) Cover" />
+</p>
+
+### 📖 About the Album
+An iconic 2002 alternative rock compilation album produced by Soundtek, featuring legendary pop-rock pioneer Azam Khan alongside heavy hitters Artcell (*Shopner Chorus*), Aurthohin (*Otit*), Black (*Blues & Rod*), Cryptic Fate (*Odhikar*), Durey, Subconscious, and Metal Maze.
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Azam Khan - Projonmo/Ajam Khan**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/01%20Azam%20Khan%20-%20Projonmo-Ajam%20Khan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/01%20Azam%20Khan%20-%20Projonmo-Ajam%20Khan.flac?download=true)
+- [**Aurthohin - Otit**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/02%20Aurthohin%20-%20Otit-Aurthohin.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/02%20Aurthohin%20-%20Otit-Aurthohin.flac?download=true)
+- [**Durey - Dhushor Chhaya**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/03%20Durey%20-%20Dhushor%20Chhaya-Durey.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/03%20Durey%20-%20Dhushor%20Chhaya-Durey.flac?download=true)
+- [**ArtCell - Shopner Chorus/Artcell**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/04%20ArtCell%20-%20Shopner%20Chorus-Artcell.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/04%20ArtCell%20-%20Shopner%20Chorus-Artcell.flac?download=true)
+- [**Cryptic Fate - Odhikar**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/05%20Cryptic%20Fate%20-%20Odhikar-Cryptic%20Fate.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/05%20Cryptic%20Fate%20-%20Odhikar-Cryptic%20Fate.flac?download=true)
+- [**Black - Blues & Rod**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/06%20Black%20-%20Blues%20%26%20Rod-Black.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/06%20Black%20-%20Blues%20%26%20Rod-Black.flac?download=true)
+- [**Subconscious - Jhumka**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/07%20Subconscious%20-%20Jhumka-Subconscious.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/07%20Subconscious%20-%20Jhumka-Subconscious.flac?download=true)
+- [**Metal Maze - Raat Nemechhe**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/08%20Metal%20Maze%20-%20Raat%20Nemechhe-Metal%20Maze.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/08%20Metal%20Maze%20-%20Raat%20Nemechhe-Metal%20Maze.flac?download=true)
+- [**Raja - Ondher Chokhe**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/09%20Raja%20-%20Ondher%20Chokhe-Raja.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/09%20Raja%20-%20Ondher%20Chokhe-Raja.flac?download=true)
+- [**Shomoy - Ekshoti Chithhi**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/10%20Shomoy%20-%20Ekshoti%20Chithhi-Shomoy.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/10%20Shomoy%20-%20Ekshoti%20Chithhi-Shomoy.flac?download=true)
+- [**Srishti - Protikkha**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/11%20Srishti%20-%20Protikkha-Srishti.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/11%20Srishti%20-%20Protikkha-Srishti.flac?download=true)
+- [**Anything But Six - Opurbo**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/12%20Anything%20But%20Six%20-%20Opurbo-Anything%20But%20Six.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/12%20Anything%20But%20Six%20-%20Opurbo-Anything%20But%20Six.flac?download=true)
+- [**WTF! - Marlen Commercial (Wtf?!?!?!?!?!?!?!?!?!?)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/13_WTF%21_Marlen_Commercial_Wtf%C2%BF%21%C2%BF%21%C2%BF%21%C2%BF%21%C2%BF%21%C2%BF%21%C2%BF%21%C2%BF%21%C2%BF%21%C2%BF.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/13_WTF%21_Marlen_Commercial_Wtf%C2%BF%21%C2%BF%21%C2%BF%21%C2%BF%21%C2%BF%21%C2%BF%21%C2%BF%21%C2%BF%21%C2%BF%21%C2%BF.flac?download=true)
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BBack%5D.jpg" width="300" alt="1. Projonmo Back" /><br><sub><b>1. Projonmo Back</b></sub> | <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BCD%5D.jpg" width="300" alt="2. Projonmo CD" /><br><sub><b>2. Projonmo CD</b></sub> |
+| <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BFront%5D.jpg" width="300" alt="3. Projonmo Front" /><br><sub><b>3. Projonmo Front</b></sub> | <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BInset-1%5D.jpg" width="300" alt="4. Projonmo Inset-1" /><br><sub><b>4. Projonmo Inset-1</b></sub> |
+| <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BInset-2%5D.jpg" width="300" alt="5. Projonmo Inset-2" /><br><sub><b>5. Projonmo Inset-2</b></sub> |  |
+
+---
+
+
+<a id="28-lokayot-2004"></a><a id="lokayot-2004"></a>
+## 28. Lokayot (লোকাযত) (2004)
+- **Album:** Lokayot (লোকাযত) (2004)
+- **Release Year:** 2004
+- **Record Label:** G-Series
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BFront%5D.jpg" width="300" alt="Lokayot (2004) Cover" />
+</p>
+
+### 📖 About the Album
+A heavyweight 15-track underground rock and metal compilation released by G-Series in 2004, showcasing powerhouse tracks from Artcell (*Chera Akash*), Aurthohin (*Boyosh*), Black (*Shotto*), Cryptic Fate (*Gontobbo*), Arbovirus (*Neelkaal*), Icons (*Ohongkar*), ReBORN (*Agrashon*), Kral (*Opekkhay*), and Stentorian.
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Aurthohin - Boyosh**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/01.%20Boyosh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/01.%20Boyosh.flac?download=true)
+- [**Black - Shotto**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/02.%20Shotto.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/02.%20Shotto.flac?download=true)
+- [**Artcell - Chera Akash**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/03.%20Chera%20Akash.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/03.%20Chera%20Akash.flac?download=true)
+- [**Cryptic Fate - Gontobbo**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/04.%20Gontobbo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/04.%20Gontobbo.flac?download=true)
+- [**Arbovirus - Neelkaal**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/05.%20Neelkaal.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/05.%20Neelkaal.flac?download=true)
+- [**Icons - Ohongkar**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/06.%20Ohongkar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/06.%20Ohongkar.flac?download=true)
+- [**ReBORN - Agrashon**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/08.%20Agrashon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/08.%20Agrashon.flac?download=true)
+- [**Fulbanuz Revenge - Neelkaal**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/09.%20Neelkaal.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/09.%20Neelkaal.flac?download=true)
+- [**dNA - Protifolon**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/10.%20Protifolon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/10.%20Protifolon.flac?download=true)
+- [**Scarecrow - Deyal Bhenge**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/11.%20Deyal%20Bhenge.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/11.%20Deyal%20Bhenge.flac?download=true)
+- [**X-Uranium - Shopnolok**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/12.%20Shopnolok.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/12.%20Shopnolok.flac?download=true)
+- [**Stentorian - Neelkaal**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/13.%20Neelkaal.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/13.%20Neelkaal.flac?download=true)
+- [**Bivishika - Bhobisshot**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/14.%20Bhobisshot.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/14.%20Bhobisshot.flac?download=true)
+- [**Striking - Artochitkar**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/15.%20Artochitkar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/15.%20Artochitkar.flac?download=true)
+- [**Kral - Opekkhay**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/16.%20Opekkhay.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/16.%20Opekkhay.flac?download=true)
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BBack%5D.jpg" width="300" alt="1. Lokayot Back" /><br><sub><b>1. Lokayot Back</b></sub> | <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BCD%5D.jpg" width="300" alt="2. Lokayot CD" /><br><sub><b>2. Lokayot CD</b></sub> |
+| <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BFront%5D.jpg" width="300" alt="3. Lokayot Front" /><br><sub><b>3. Lokayot Front</b></sub> | <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BInset-1%5D.jpg" width="300" alt="4. Lokayot Inset-1" /><br><sub><b>4. Lokayot Inset-1</b></sub> |
+| <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BInset-2%5D.jpg" width="300" alt="5. Lokayot Inset-2" /><br><sub><b>5. Lokayot Inset-2</b></sub> | <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BInset-3%5D.jpg" width="300" alt="6. Lokayot Inset-3" /><br><sub><b>6. Lokayot Inset-3</b></sub> |
+| <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BInset-4%5D.jpg" width="300" alt="7. Lokayot Inset-4" /><br><sub><b>7. Lokayot Inset-4</b></sub> |  |
+
+---
+
+
+<a id="29-jewel-with-the-stars-2006"></a><a id="jewel-with-the-stars-2006"></a>
+## 29. Jewel With The Stars (2006)
+- **Album:** Jewel With The Stars (2006)
+- **Release Year:** 2006
+- **Record Label:** Soundtek
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Jewel%20With%20The%20Stars%20%282006%29/Album%20Cover/Jewel%20with%20the%20stars%20%5BFront%5D.jpg" width="300" alt="Jewel With The Stars (2006) Cover" />
+</p>
+
+### 📖 About the Album
+A critically acclaimed collaboration album conceived and produced by Iqbal Asif Jewel in 2006, featuring expressive, melodic rock performances by Jon Kabir (*Jibon*, *Ek*), Bassbaba Sumon (*Anubhobe*, *Notun Aami*), Tahsan (*Anantakaler Pothoyaatri*, *Fire Esho*), Jewel, and Russel.
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Jon Kabir - Jibon**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/01.%20Jibon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/01.%20Jibon.flac?download=true)
+- [**Jewel - Hridoyer Anchole**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/02.%20Hridoyer%20Anchole.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/02.%20Hridoyer%20Anchole.flac?download=true)
+- [**Tahsan - Anantakaler Pothoyaatri**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/03.%20Anantakaler%20Pothoyaatri.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/03.%20Anantakaler%20Pothoyaatri.flac?download=true)
+- [**Russel - Bhasaiya Geli**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/04.%20Bhasaiya%20Geli.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/04.%20Bhasaiya%20Geli.flac?download=true)
+- [**Bassbaba Sumon - Anubhobe**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/05.%20Anubhobe.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/05.%20Anubhobe.flac?download=true)
+- [**Tahsan - Fire Esho**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/06.%20Fire%20Esho.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/06.%20Fire%20Esho.flac?download=true)
+- [**Jon Kabir - Ek**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/07.%20Ek.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/07.%20Ek.flac?download=true)
+- [**Jewel - Eshwarer Osru**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/08.%20Eshwarer%20Osru.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/08.%20Eshwarer%20Osru.flac?download=true)
+- [**Bassbaba Sumon - Notun Aami**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/09.%20Notun%20Aami.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/09.%20Notun%20Aami.flac?download=true)
+- [**Russel - Ekhon Ami**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/10.%20Ekhon%20Ami.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/10.%20Ekhon%20Ami.flac?download=true)
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Jewel%20With%20The%20Stars%20%282006%29/Album%20Cover/Jewel%20with%20the%20stars%20%5BFront%5D.jpg" width="300" alt="1. Jewel with the stars Front" /><br><sub><b>1. Jewel with the stars Front</b></sub> |  |
+
+---
+
+
+<a id="30-riotous-14-2015"></a><a id="riotous-14-2015"></a>
+## 30. Riotous 14 (2015)
+- **Album:** Riotous 14 (2015)
+- **Release Year:** 2015
+- **Record Label:** Incursion Music
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Riotous%2014%20%282015%29/Album%20Cover/Riotous%2014%20%5BFront%5D.jpg" width="300" alt="Riotous 14 (2015) Cover" />
+</p>
+
+### 📖 About the Album
+A fierce 14-track metal collection released in 2015 by Incursion Music, opening with Artcell's thunderous rendition of Kazi Nazrul Islam's rebellion anthem *Karar Oi Louho Kopat*, followed by high-voltage metal attacks from Bay of Bengal, Powersurge (*Terror Scream*), Scarecrow, Overlord, and Thrash.
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Artcell - Karar Oi Louho Kopat**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/01.%20Karar%20Oi%20Louho%20Kopat.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/01.%20Karar%20Oi%20Louho%20Kopat.flac?download=true)
+- [**Bay of Bengal - Mostishker Ongar**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/02.%20Mostishker%20Ongar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/02.%20Mostishker%20Ongar.flac?download=true)
+- [**Scarecrow - Abar Juddhe**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/03.%20Abar%20Juddhe.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/03.%20Abar%20Juddhe.flac?download=true)
+- [**Overlord - The Enemy**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/04.%20The%20Enemy.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/04.%20The%20Enemy.flac?download=true)
+- [**Powersurge - Terror Scream**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/05.%20Terror%20Scream.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/05.%20Terror%20Scream.flac?download=true)
+- [**Abominable Carnivore - Rise My Army Of The Undead**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/06.%20Rise%20My%20Army%20Of%20The%20Undead.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/06.%20Rise%20My%20Army%20Of%20The%20Undead.flac?download=true)
+- [**Crusader - Amar Khunira**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/07.%20Amar%20Khunira.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/07.%20Amar%20Khunira.flac?download=true)
+- [**Thrash - Traash**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/08.%20Traash.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/08.%20Traash.flac?download=true)
+- [**Homicide - Hades**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/09.%20Hades.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/09.%20Hades.flac?download=true)
+- [**Zerg - Sroshta**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/10.%20Sroshta.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/10.%20Sroshta.flac?download=true)
+- [**Hell Raizers - Shironam Protibad**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/11.%20Shironam%20Protibad.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/11.%20Shironam%20Protibad.flac?download=true)
+- [**Shadow Realm - Let There Be Blood**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/12.%20Let%20There%20Be%20Blood.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/12.%20Let%20There%20Be%20Blood.flac?download=true)
+- [**Naïve - Niyomer Dewal**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/13.%20Niyomer%20Dewal.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/13.%20Niyomer%20Dewal.flac?download=true)
+- [**Sent Men Revolt - Punno Ghatok**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/14.%20Punno%20Ghatok.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Riotous%2014%20%282015%29/14.%20Punno%20Ghatok.flac?download=true)
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Riotous%2014%20%282015%29/Album%20Cover/Riotous%2014%20%5BFront%5D.jpg" width="300" alt="1. Riotous 14 Front" /><br><sub><b>1. Riotous 14 Front</b></sub> |  |
 
 ---
 
