@@ -307,7 +307,7 @@ The thrilling third installment of the Agontuk saga released in 2005 under Sound
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront-Back%5D.jpg" width="300" alt="Shopnochura (2004) Cover" />
+  <img src="Shopnochura%202%20%282005%29/Album%20Cover/Shopnochura%202%20%5BFront%5D.jpg" width="300" alt="Shopnochura (2004) Cover" />
 </p>
 
 ### 📖 About the Album
@@ -433,7 +433,7 @@ A pathbreaking alternative and indie rock compilation released in 2007 by G-Seri
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront-Back%5D.jpg" width="300" alt="Shopnochura (2004) Cover" />
+  <img src="Shopnochura%203%20%282007%29/Album%20Cover/Shopnochura%203%20%5BFront%5D.jpg" width="300" alt="Shopnochura (2004) Cover" />
 </p>
 
 ### 📖 About the Album
