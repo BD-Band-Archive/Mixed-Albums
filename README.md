@@ -76,9 +76,9 @@ A historic underground compilation album released in 2002 under G-Series featuri
 
 | | |
 | :---: | :---: |
-| <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BCD%5D.jpg" width="300" alt="1. CD" /><br><sub><b>1. CD</b></sub> | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BFront-Back%5D.jpg" width="300" alt="2. Front-Back" /><br><sub><b>2. Front-Back</b></sub> |
-| <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BFront%5D.jpg" width="300" alt="3. Front" /><br><sub><b>3. Front</b></sub> | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BFront%5D_2.jpg" width="300" alt="4. Front" /><br><sub><b>4. Front</b></sub> |
-| <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BInset%5D.jpg" width="300" alt="5. Inset" /><br><sub><b>5. Inset</b></sub> | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BLyrics%5D.jpg" width="300" alt="6. Lyrics" /><br><sub><b>6. Lyrics</b></sub> |
+| <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BFront-Back%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BFront%5D.jpg" width="300" alt="2. Front Cover (Alternative Scan)" /><br><sub><b>2. Front Cover (Alternative Scan)</b></sub> |
+| <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BFront%5D_2.jpg" width="300" alt="3. Front Cover (Alternative Scan)" /><br><sub><b>3. Front Cover (Alternative Scan)</b></sub> | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BLyrics%5D.jpg" width="300" alt="4. Booklet & Lyrics" /><br><sub><b>4. Booklet & Lyrics</b></sub> |
+| <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BInset%5D.jpg" width="300" alt="5. Tray Inlay Artwork" /><br><sub><b>5. Tray Inlay Artwork</b></sub> | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 
 ---
 
@@ -116,9 +116,9 @@ The legendary first installment of the Agontuk mixed album series produced by Iq
 
 | | |
 | :---: | :---: |
-| <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BBack%5D.jpg" width="300" alt="1. Back" /><br><sub><b>1. Back</b></sub> | <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BCD%5D.jpg" width="300" alt="2. CD" /><br><sub><b>2. CD</b></sub> |
-| <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BFront%5D.jpg" width="300" alt="3. Front" /><br><sub><b>3. Front</b></sub> | <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BInset-1%5D.jpg" width="300" alt="4. Inset-1" /><br><sub><b>4. Inset-1</b></sub> |
-| <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BInset-2%5D.jpg" width="300" alt="5. Inset-2" /><br><sub><b>5. Inset-2</b></sub> |  |
+| <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BInset-1%5D.jpg" width="300" alt="2. Inset (Part 1)" /><br><sub><b>2. Inset (Part 1)</b></sub> |
+| <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
+| <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BBack%5D.jpg" width="300" alt="5. Back Cover" /><br><sub><b>5. Back Cover</b></sub> |  |
 
 ---
 
@@ -157,9 +157,9 @@ The monumental second chapter of the Agontuk series released under Soundtek in 2
 
 | | |
 | :---: | :---: |
-| <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BBooklet%5D.jpg" width="300" alt="1. Booklet" /><br><sub><b>1. Booklet</b></sub> | <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BCD%5D.jpg" width="300" alt="2. CD" /><br><sub><b>2. CD</b></sub> |
-| <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BFront-Back%5D.jpg" width="300" alt="3. Front-Back" /><br><sub><b>3. Front-Back</b></sub> | <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BFront%5D.jpg" width="300" alt="4. Front" /><br><sub><b>4. Front</b></sub> |
-| <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BInlay%5D.jpg" width="300" alt="5. Inlay" /><br><sub><b>5. Inlay</b></sub> |  |
+| <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BFront-Back%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BFront%5D.jpg" width="300" alt="2. Front Cover (Alternative Scan)" /><br><sub><b>2. Front Cover (Alternative Scan)</b></sub> |
+| <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BBooklet%5D.jpg" width="300" alt="3. Booklet & Lyrics" /><br><sub><b>3. Booklet & Lyrics</b></sub> | <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BInlay%5D.jpg" width="300" alt="4. Tray Inlay Artwork" /><br><sub><b>4. Tray Inlay Artwork</b></sub> |
+| <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BCD%5D.jpg" width="300" alt="5. Compact Disc (CD)" /><br><sub><b>5. Compact Disc (CD)</b></sub> |  |
 
 ---
 
@@ -202,10 +202,10 @@ A milestone 19-track Bangladeshi mixed rock album released in 2004, spearheaded 
 
 | | |
 | :---: | :---: |
-| <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BBack%5D.jpg" width="300" alt="1. Back" /><br><sub><b>1. Back</b></sub> | <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BFront%5D.jpg" width="300" alt="2. Front" /><br><sub><b>2. Front</b></sub> |
-| <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-1%5D.jpg" width="300" alt="3. Inset-1" /><br><sub><b>3. Inset-1</b></sub> | <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-2%5D.jpg" width="300" alt="4. Inset-2" /><br><sub><b>4. Inset-2</b></sub> |
-| <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-3%5D.jpg" width="300" alt="5. Inset-3" /><br><sub><b>5. Inset-3</b></sub> | <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-4%5D.jpg" width="300" alt="6. Inset-4" /><br><sub><b>6. Inset-4</b></sub> |
-| <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-5%5D.jpg" width="300" alt="7. Inset-5" /><br><sub><b>7. Inset-5</b></sub> |  |
+| <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-1%5D.jpg" width="300" alt="2. Inset (Part 1)" /><br><sub><b>2. Inset (Part 1)</b></sub> |
+| <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-3%5D.jpg" width="300" alt="4. Inset (Part 3)" /><br><sub><b>4. Inset (Part 3)</b></sub> |
+| <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-5%5D.jpg" width="300" alt="6. Inset (Part 5)" /><br><sub><b>6. Inset (Part 5)</b></sub> |
+| <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
 
 ---
 
@@ -248,8 +248,8 @@ The historic debut installment of the milestone *Shopnochura* ("Dream Peak") ser
 
 | | |
 | :---: | :---: |
-| <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BCD%5D.jpg" width="300" alt="1. CD" /><br><sub><b>1. CD</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront-Back%5D.jpg" width="300" alt="2. Front-Back" /><br><sub><b>2. Front-Back</b></sub> |
-| <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront%5D.jpg" width="300" alt="3. Front" /><br><sub><b>3. Front</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BInlay%5D.jpg" width="300" alt="4. Inlay" /><br><sub><b>4. Inlay</b></sub> |
+| <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront-Back%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront%5D.jpg" width="300" alt="2. Front Cover (Alternative Scan)" /><br><sub><b>2. Front Cover (Alternative Scan)</b></sub> |
+| <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BInlay%5D.jpg" width="300" alt="3. Tray Inlay Artwork" /><br><sub><b>3. Tray Inlay Artwork</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
 
 ---
 
@@ -288,9 +288,9 @@ The thrilling third installment of the Agontuk saga released in 2005 under Sound
 
 | | |
 | :---: | :---: |
-| <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BBack%5D.jpg" width="300" alt="1. Back" /><br><sub><b>1. Back</b></sub> | <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BBooklet-1%5D.jpg" width="300" alt="2. Booklet-1" /><br><sub><b>2. Booklet-1</b></sub> |
-| <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BBooklet-2%5D.jpg" width="300" alt="3. Booklet-2" /><br><sub><b>3. Booklet-2</b></sub> | <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BFront%5D.jpg" width="300" alt="4. Front" /><br><sub><b>4. Front</b></sub> |
-| <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BInlay%5D.jpg" width="300" alt="5. Inlay" /><br><sub><b>5. Inlay</b></sub> |  |
+| <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BBooklet-1%5D.jpg" width="300" alt="2. Booklet (Part 1)" /><br><sub><b>2. Booklet (Part 1)</b></sub> |
+| <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BBooklet-2%5D.jpg" width="300" alt="3. Booklet (Part 2)" /><br><sub><b>3. Booklet (Part 2)</b></sub> | <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BInlay%5D.jpg" width="300" alt="4. Tray Inlay Artwork" /><br><sub><b>4. Tray Inlay Artwork</b></sub> |
+| <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BBack%5D.jpg" width="300" alt="5. Back Cover" /><br><sub><b>5. Back Cover</b></sub> |  |
 
 ---
 
@@ -332,8 +332,8 @@ The acclaimed second volume of the *Shopnochura* series released in 2005 under G
 
 | | |
 | :---: | :---: |
-| <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BCD%5D.jpg" width="300" alt="1. CD" /><br><sub><b>1. CD</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront-Back%5D.jpg" width="300" alt="2. Front-Back" /><br><sub><b>2. Front-Back</b></sub> |
-| <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront%5D.jpg" width="300" alt="3. Front" /><br><sub><b>3. Front</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BInlay%5D.jpg" width="300" alt="4. Inlay" /><br><sub><b>4. Inlay</b></sub> |
+| <img src="Shopnochura%202%20%282005%29/Album%20Cover/Shopnochura%202%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Shopnochura%202%20%282005%29/Album%20Cover/Shopnochura%202%20%5BInset%5D.jpg" width="300" alt="2. Tray Inlay Artwork" /><br><sub><b>2. Tray Inlay Artwork</b></sub> |
+| <img src="Shopnochura%202%20%282005%29/Album%20Cover/Shopnochura%202%20%5BCD%5D.jpg" width="300" alt="3. Compact Disc (CD)" /><br><sub><b>3. Compact Disc (CD)</b></sub> | <img src="Shopnochura%202%20%282005%29/Album%20Cover/Shopnochura%202%20%5BBack%5D.jpg" width="300" alt="4. Back Cover" /><br><sub><b>4. Back Cover</b></sub> |
 
 ---
 
@@ -372,9 +372,9 @@ A landmark 2007 compilation album presented by G-Series bringing together elite 
 
 | | |
 | :---: | :---: |
-| <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BBooklet-1%5D.jpg" width="300" alt="1. Booklet-1" /><br><sub><b>1. Booklet-1</b></sub> | <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BBooklet-2%5D.jpg" width="300" alt="2. Booklet-2" /><br><sub><b>2. Booklet-2</b></sub> |
-| <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BBooklet-3%5D.jpg" width="300" alt="3. Booklet-3" /><br><sub><b>3. Booklet-3</b></sub> | <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BBooklet-4%5D.jpg" width="300" alt="4. Booklet-4" /><br><sub><b>4. Booklet-4</b></sub> |
-| <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BCD%5D.jpg" width="300" alt="5. CD" /><br><sub><b>5. CD</b></sub> | <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BFront-Back%5D.jpg" width="300" alt="6. Front-Back" /><br><sub><b>6. Front-Back</b></sub> |
+| <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BFront-Back%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BBooklet-1%5D.jpg" width="300" alt="2. Booklet (Part 1)" /><br><sub><b>2. Booklet (Part 1)</b></sub> |
+| <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BBooklet-2%5D.jpg" width="300" alt="3. Booklet (Part 2)" /><br><sub><b>3. Booklet (Part 2)</b></sub> | <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BBooklet-3%5D.jpg" width="300" alt="4. Booklet (Part 3)" /><br><sub><b>4. Booklet (Part 3)</b></sub> |
+| <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BBooklet-4%5D.jpg" width="300" alt="5. Booklet (Part 4)" /><br><sub><b>5. Booklet (Part 4)</b></sub> | <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 
 ---
 
@@ -412,11 +412,11 @@ A pathbreaking alternative and indie rock compilation released in 2007 by G-Seri
 
 | | |
 | :---: | :---: |
-| <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BArtwork%5D.jpg" width="300" alt="1. Artwork" /><br><sub><b>1. Artwork</b></sub> | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BBack%5D.jpg" width="300" alt="2. Back" /><br><sub><b>2. Back</b></sub> |
-| <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BBooklet-1%5D.jpg" width="300" alt="3. Booklet-1" /><br><sub><b>3. Booklet-1</b></sub> | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BBooklet-2%5D.jpg" width="300" alt="4. Booklet-2" /><br><sub><b>4. Booklet-2</b></sub> |
-| <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BCD%5D.jpg" width="300" alt="5. CD" /><br><sub><b>5. CD</b></sub> | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BFront%5D.jpg" width="300" alt="6. Front" /><br><sub><b>6. Front</b></sub> |
-| <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BInlay-Back%5D.jpg" width="300" alt="7. Inlay-Back" /><br><sub><b>7. Inlay-Back</b></sub> | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BInlay-Front%5D.jpg" width="300" alt="8. Inlay-Front" /><br><sub><b>8. Inlay-Front</b></sub> |
-| <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BPoster%5D.jpg" width="300" alt="9. Poster" /><br><sub><b>9. Poster</b></sub> |  |
+| <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BArtwork%5D.jpg" width="300" alt="2. Gatefold Artwork" /><br><sub><b>2. Gatefold Artwork</b></sub> |
+| <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BBooklet-1%5D.jpg" width="300" alt="3. Booklet (Part 1)" /><br><sub><b>3. Booklet (Part 1)</b></sub> | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BBooklet-2%5D.jpg" width="300" alt="4. Booklet (Part 2)" /><br><sub><b>4. Booklet (Part 2)</b></sub> |
+| <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BPoster%5D.jpg" width="300" alt="5. Promotional Poster & Lyrics" /><br><sub><b>5. Promotional Poster & Lyrics</b></sub> | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BInlay-Front%5D.jpg" width="300" alt="6. Inlay (Front)" /><br><sub><b>6. Inlay (Front)</b></sub> |
+| <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BCD%5D.jpg" width="300" alt="7. Compact Disc (CD)" /><br><sub><b>7. Compact Disc (CD)</b></sub> | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BInlay-Back%5D.jpg" width="300" alt="8. Back Inset" /><br><sub><b>8. Back Inset</b></sub> |
+| <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BBack%5D.jpg" width="300" alt="9. Back Cover" /><br><sub><b>9. Back Cover</b></sub> |  |
 
 ---
 
@@ -459,8 +459,10 @@ The celebrated third edition of the *Shopnochura* series, released in 2007 under
 
 | | |
 | :---: | :---: |
-| <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BCD%5D.jpg" width="300" alt="1. CD" /><br><sub><b>1. CD</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront-Back%5D.jpg" width="300" alt="2. Front-Back" /><br><sub><b>2. Front-Back</b></sub> |
-| <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront%5D.jpg" width="300" alt="3. Front" /><br><sub><b>3. Front</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BInlay%5D.jpg" width="300" alt="4. Inlay" /><br><sub><b>4. Inlay</b></sub> |
+| <img src="Shopnochura%203%20%282007%29/Album%20Cover/Shopnochura%203%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Shopnochura%203%20%282007%29/Album%20Cover/Shopnochura%203%20%5BInset-1%5D.jpg" width="300" alt="2. Inset (Part 1)" /><br><sub><b>2. Inset (Part 1)</b></sub> |
+| <img src="Shopnochura%203%20%282007%29/Album%20Cover/Shopnochura%203%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Shopnochura%203%20%282007%29/Album%20Cover/Shopnochura%203%20%5BInset-3%5D.jpg" width="300" alt="4. Inset (Part 3)" /><br><sub><b>4. Inset (Part 3)</b></sub> |
+| <img src="Shopnochura%203%20%282007%29/Album%20Cover/Shopnochura%203%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Shopnochura%203%20%282007%29/Album%20Cover/Shopnochura%203%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
+| <img src="Shopnochura%203%20%282007%29/Album%20Cover/Shopnochura%203%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
 
 ---
 
@@ -504,10 +506,9 @@ Fuad Al-Muqtadir's acclaimed 2008 collaborative album featuring dynamic genre-bl
 
 ### 🖼️ Album Artwork
 
-<p align="center">
-  <img src="Bonno%20%282008%29/Album%20Cover/Bonno%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
-  <sub><b>Front Cover (Digital Master Scan)</b></sub>
-</p>
+| | |
+| :---: | :---: |
+| <img src="Bonno%20%282008%29/Album%20Cover/Bonno%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
@@ -542,10 +543,9 @@ A powerhouse 2008 Bangladeshi rock compilation album featuring heavyweight track
 
 ### 🖼️ Album Artwork
 
-<p align="center">
-  <img src="Rock%20101%20%282008%29/Album%20Cover/Rock%20101%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
-  <sub><b>Front Cover (Digital Master Scan)</b></sub>
-</p>
+| | |
+| :---: | :---: |
+| <img src="Rock%20101%20%282008%29/Album%20Cover/Rock%20101%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
@@ -586,10 +586,9 @@ The powerful second volume of the *Rock* compilation series released in 2009. Pa
 
 ### 🖼️ Album Artwork
 
-<p align="center">
-  <img src="Rock%20202%20%282009%29/Album%20Cover/Rock%20202%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
-  <sub><b>Front Cover (Digital Master Scan)</b></sub>
-</p>
+| | |
+| :---: | :---: |
+| <img src="Rock%20202%20%282009%29/Album%20Cover/Rock%20202%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
@@ -629,10 +628,9 @@ The third volume in the *Rock* series, delivering 14 heavy progressive rock and 
 
 ### 🖼️ Album Artwork
 
-<p align="center">
-  <img src="Rock%20303%20%282009%29/Album%20Cover/Rock%20303%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
-  <sub><b>Front Cover (Digital Master Scan)</b></sub>
-</p>
+| | |
+| :---: | :---: |
+| <img src="Rock%20303%20%282009%29/Album%20Cover/Rock%20303%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
@@ -673,10 +671,9 @@ The explosive fourth volume of the *Rock* series released in 2010, featuring 15 
 
 ### 🖼️ Album Artwork
 
-<p align="center">
-  <img src="Rock%20404%20%282010%29/Album%20Cover/Rock%20404%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
-  <sub><b>Front Cover (Digital Master Scan)</b></sub>
-</p>
+| | |
+| :---: | :---: |
+| <img src="Rock%20404%20%282010%29/Album%20Cover/Rock%20404%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
@@ -717,10 +714,9 @@ The fifth edition of the powerhouse *Rock* compilation series featuring 15 relen
 
 ### 🖼️ Album Artwork
 
-<p align="center">
-  <img src="Rock%20505%20%282010%29/Album%20Cover/Rock%20505%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
-  <sub><b>Front Cover (Digital Master Scan)</b></sub>
-</p>
+| | |
+| :---: | :---: |
+| <img src="Rock%20505%20%282010%29/Album%20Cover/Rock%20505%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
@@ -761,10 +757,9 @@ A high-octane 2011 Bangladeshi rock compilation featuring 16 dynamic bands, high
 
 ### 🖼️ Album Artwork
 
-<p align="center">
-  <img src="Rock%20606%20%282011%29/Album%20Cover/Rock%20606%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
-  <sub><b>Front Cover (Digital Master Scan)</b></sub>
-</p>
+| | |
+| :---: | :---: |
+| <img src="Rock%20606%20%282011%29/Album%20Cover/Rock%20606%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
@@ -806,10 +801,9 @@ The seventh volume of the legendary *Rock* series released in 2011, featuring 16
 
 ### 🖼️ Album Artwork
 
-<p align="center">
-  <img src="Rock%20707%20%282011%29/Album%20Cover/Rock%20707%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
-  <sub><b>Front Cover (Digital Master Scan)</b></sub>
-</p>
+| | |
+| :---: | :---: |
+| <img src="Rock%20707%20%282011%29/Album%20Cover/Rock%20707%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
@@ -842,10 +836,9 @@ A landmark 2011 tribute compilation album dedicated to mystic bards **Lalon Shah
 
 ### 🖼️ Album Artwork
 
-<p align="center">
-  <img src="Shomorpon%20%282011%29/Album%20Cover/Shomorpon%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
-  <sub><b>Front Cover (Digital Master Scan)</b></sub>
-</p>
+| | |
+| :---: | :---: |
+| <img src="Shomorpon%20%282011%29/Album%20Cover/Shomorpon%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
@@ -946,8 +939,8 @@ Released in October 2012 under G-Series and coordinated by Duray, *Hatiar* (*"Th
 
 | | |
 | :---: | :---: |
-| <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BBack%5D.jpg" width="300" alt="1. Back" /><br><sub><b>1. Back</b></sub> | <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BCD%5D.jpg" width="300" alt="2. CD" /><br><sub><b>2. CD</b></sub> |
-| <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BFront%5D.jpg" width="300" alt="3. Front" /><br><sub><b>3. Front</b></sub> | <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BInlet%5D.jpg" width="300" alt="4. Inlet" /><br><sub><b>4. Inlet</b></sub> |
+| <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BCD%5D.jpg" width="300" alt="2. Compact Disc (CD)" /><br><sub><b>2. Compact Disc (CD)</b></sub> |
+| <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BBack%5D.jpg" width="300" alt="3. Back Cover" /><br><sub><b>3. Back Cover</b></sub> | <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BInlet%5D.jpg" width="300" alt="4. Hatiar [Inlet]" /><br><sub><b>4. Hatiar [Inlet]</b></sub> |
 
 ---
 
@@ -988,8 +981,7 @@ Released in 2014 under G-Series and coordinated by Tony, *Shopnochura 4* marked 
 
 | | |
 | :---: | :---: |
-| <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BCD%5D.jpg" width="300" alt="1. CD" /><br><sub><b>1. CD</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront-Back%5D.jpg" width="300" alt="2. Front-Back" /><br><sub><b>2. Front-Back</b></sub> |
-| <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront%5D.jpg" width="300" alt="3. Front" /><br><sub><b>3. Front</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BInlay%5D.jpg" width="300" alt="4. Inlay" /><br><sub><b>4. Inlay</b></sub> |
+| <img src="Shopnochura%204%20%282014%29/Album%20Cover/Shopnochura%204%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
@@ -1028,10 +1020,9 @@ The eighth installment of the *Rock* compilation series released in 2015, featur
 
 ### 🖼️ Album Artwork
 
-<p align="center">
-  <img src="Rock%20808%20%282015%29/Album%20Cover/Rock%20808%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
-  <sub><b>Front Cover (Digital Master Scan)</b></sub>
-</p>
+| | |
+| :---: | :---: |
+| <img src="Rock%20808%20%282015%29/Album%20Cover/Rock%20808%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
@@ -1071,10 +1062,9 @@ The ninth installment of the *Rock* compilation series, featuring 12 heavy alter
 
 ### 🖼️ Album Artwork
 
-<p align="center">
-  <img src="Rock%20909%20%282015%29/Album%20Cover/Rock%20909%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
-  <sub><b>Front Cover (Digital Master Scan)</b></sub>
-</p>
+| | |
+| :---: | :---: |
+| <img src="Rock%20909%20%282015%29/Album%20Cover/Rock%20909%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
@@ -1111,10 +1101,9 @@ The milestone tenth volume of the *Rock* series, delivering 11 tracks including 
 
 ### 🖼️ Album Artwork
 
-<p align="center">
-  <img src="Rock%20X0X%20%282015%29/Album%20Cover/Rock%20X0X%20%5BFront%5D.jpg" width="300" alt="Front Cover" /><br>
-  <sub><b>Front Cover (Digital Master Scan)</b></sub>
-</p>
+| | |
+| :---: | :---: |
+| <img src="Rock%20X0X%20%282015%29/Album%20Cover/Rock%20X0X%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
