@@ -44,6 +44,7 @@
 28. [Rock 808 (রক ৮০৮) (2015)](#28-rock-808-2015)
 29. [Rock 909 (রক ৯০৯) (2015)](#29-rock-909-2015)
 30. [Rock X0X (রক ১০১০) (2015)](#30-rock-x0x-2015)
+31. [Deep Nevar Age (দীপ নেভার আগে) (2015)](#31-deep-nevar-age-2015)
 
 ---
 
@@ -1529,6 +1530,41 @@ The milestone tenth volume of the *Rock* series, delivering 11 tracks including 
 - **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
+
+<a id="31-deep-nevar-age-2015"></a><a id="deep-nevar-age-2015"></a>
+## 31. Deep Nevar Age (দীপ নেভার আগে) (2015)
+- **Album:** Deep Nevar Age (দীপ নেভার আগে) (2015)
+- **Release Year:** 2015
+- **Record Label:** Gaanchill Music
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Deep%20Nevar%20Age%20%282015%29/Album%20Cover/Deep%20Nevar%20Age%20%5BFront%5D.jpg" width="300" alt="Deep Nevar Age (2015) Cover" />
+</p>
+
+### 📖 About the Album
+A landmark 2015 collaborative alternative rock and contemporary album released under Gaanchill Music, featuring heartfelt original compositions performed by celebrated artists including Ayub Bachchu (*Shobugh Ghasher Golpo*), Arnob (*Ghum Gari*, *Jhor*), Rafa (*Tumi Nei Tai*), Adit (*Hajaar Deen*), Upol & Maher (*Shaada Kaalo*), and Tahseen (*Je O Na*).
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Upol & Maher - Shaada Kaalo (Duet)**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/01%20Shaada%20Kaalo%20%28Duet%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/01%20Shaada%20Kaalo%20%28Duet%29.flac?download=true)
+- [**Arnob - Ghum Gari**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/02%20Ghum%20Gari.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/02%20Ghum%20Gari.flac?download=true)
+- [**Rafa - Tumi Nei Tai**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/03%20Tumi%20Nei%20Tai.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/03%20Tumi%20Nei%20Tai.flac?download=true)
+- [**Adit - Hajaar Deen**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/04%20Hajaar%20Deen.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/04%20Hajaar%20Deen.flac?download=true)
+- [**Ayub Bachchu - Shobugh Ghasher Golpo**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/05%20Shobugh%20Ghasher%20Golpo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/05%20Shobugh%20Ghasher%20Golpo.flac?download=true)
+- [**Arnob - Jhor**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/06%20Jhor.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/06%20Jhor.flac?download=true)
+- [**Tahseen - Je O Na**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/07%20Je%20O%20Na.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/07%20Je%20O%20Na.flac?download=true)
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Deep%20Nevar%20Age%20%282015%29/Album%20Cover/Deep%20Nevar%20Age%20%5BFront%5D.jpg" width="300" alt="1. Deep Nevar Age Front" /><br><sub><b>1. Deep Nevar Age Front</b></sub> |  |
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Gaanchill Music Digital Archive / Bangla Flac Community
+- **Source:** Original Digital Master / Compact Disc Lossless Audio Archive
 
 ### 📦 Git LFS & Downloading Audio
 
