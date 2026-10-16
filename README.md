@@ -85,6 +85,12 @@ A monumental early milestone in Bangladeshi rock and heavy metal history release
 | <img src="Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/Album%20Cover/Hits%20Of%20Metal%20Band%20%5BBack%5D.jpg" width="300" alt="1. Hits Of Metal Band Back" /><br><sub><b>1. Hits Of Metal Band Back</b></sub> | <img src="Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/Album%20Cover/Hits%20Of%20Metal%20Band%20%5BCD%5D.jpg" width="300" alt="2. Hits Of Metal Band CD" /><br><sub><b>2. Hits Of Metal Band CD</b></sub> |
 | <img src="Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/Album%20Cover/Hits%20Of%20Metal%20Band%20%5BFront%5D.jpg" width="300" alt="3. Hits Of Metal Band Front" /><br><sub><b>3. Hits Of Metal Band Front</b></sub> | <img src="Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/Album%20Cover/Hits%20Of%20Metal%20Band%20%5BInlay%5D.jpg" width="300" alt="4. Hits Of Metal Band Inlay" /><br><sub><b>4. Hits Of Metal Band Inlay</b></sub> |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Bangla Flac Preservation Community
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="2-charpotro-2001"></a><a id="26-charpotro-2001"></a><a id="charpotro-2001"></a>
@@ -126,6 +132,12 @@ A historic compilation album released by G-Series in 2001 that heralded Banglade
 | <img src="Charpotro%20%282001%29/Album%20Cover/Charpotro%20%5BFront%5D.jpg" width="300" alt="3. Charpotro Front" /><br><sub><b>3. Charpotro Front</b></sub> | <img src="Charpotro%20%282001%29/Album%20Cover/Charpotro%20%5BInset-1%5D.jpg" width="300" alt="4. Charpotro Inset-1" /><br><sub><b>4. Charpotro Inset-1</b></sub> |
 | <img src="Charpotro%20%282001%29/Album%20Cover/Charpotro%20%5BInset-2%5D.jpg" width="300" alt="5. Charpotro Inset-2" /><br><sub><b>5. Charpotro Inset-2</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="3-onushilon-2002"></a><a id="1-onushilon-2002"></a><a id="2-onushilon-2002"></a><a id="onushilon-2002"></a>
@@ -165,6 +177,12 @@ A historic underground compilation album released in 2002 under G-Series featuri
 | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BFront-Back%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BFront%5D.jpg" width="300" alt="2. Front Cover (Alternative Scan)" /><br><sub><b>2. Front Cover (Alternative Scan)</b></sub> |
 | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BFront%5D_2.jpg" width="300" alt="3. Front Cover (Alternative Scan)" /><br><sub><b>3. Front Cover (Alternative Scan)</b></sub> | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BLyrics%5D.jpg" width="300" alt="4. Booklet & Lyrics" /><br><sub><b>4. Booklet & Lyrics</b></sub> |
 | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BInset%5D.jpg" width="300" alt="5. Tray Inlay Artwork" /><br><sub><b>5. Tray Inlay Artwork</b></sub> | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Bangla Flac Preservation Community
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
@@ -206,6 +224,12 @@ An iconic 2002 alternative rock compilation album produced by Soundtek, featurin
 | <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BFront%5D.jpg" width="300" alt="3. Projonmo Front" /><br><sub><b>3. Projonmo Front</b></sub> | <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BInset-1%5D.jpg" width="300" alt="4. Projonmo Inset-1" /><br><sub><b>4. Projonmo Inset-1</b></sub> |
 | <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BInset-2%5D.jpg" width="300" alt="5. Projonmo Inset-2" /><br><sub><b>5. Projonmo Inset-2</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="5-agontuk-1-2003"></a><a id="2-agontuk-1-2003"></a><a id="4-agontuk-1-2003"></a><a id="agontuk-1-2003"></a>
@@ -245,6 +269,12 @@ The legendary first installment of the Agontuk mixed album series produced by Iq
 | <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BInset-1%5D.jpg" width="300" alt="2. Inset (Part 1)" /><br><sub><b>2. Inset (Part 1)</b></sub> |
 | <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
 | <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BBack%5D.jpg" width="300" alt="5. Back Cover" /><br><sub><b>5. Back Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Khudadad Towhid
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
@@ -286,6 +316,12 @@ The monumental second chapter of the Agontuk series released under Soundtek in 2
 | <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BFront-Back%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BFront%5D.jpg" width="300" alt="2. Front Cover (Alternative Scan)" /><br><sub><b>2. Front Cover (Alternative Scan)</b></sub> |
 | <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BBooklet%5D.jpg" width="300" alt="3. Booklet & Lyrics" /><br><sub><b>3. Booklet & Lyrics</b></sub> | <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BInlay%5D.jpg" width="300" alt="4. Tray Inlay Artwork" /><br><sub><b>4. Tray Inlay Artwork</b></sub> |
 | <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BCD%5D.jpg" width="300" alt="5. Compact Disc (CD)" /><br><sub><b>5. Compact Disc (CD)</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** NirZak (Nirjas Jakilim)
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
@@ -333,6 +369,12 @@ A milestone 19-track Bangladeshi mixed rock album released in 2004, spearheaded 
 | <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-5%5D.jpg" width="300" alt="6. Inset (Part 5)" /><br><sub><b>6. Inset (Part 5)</b></sub> |
 | <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Amirul Rifat
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="8-lokayot-2004"></a><a id="28-lokayot-2004"></a><a id="lokayot-2004"></a>
@@ -375,6 +417,12 @@ A heavyweight 15-track underground rock and metal compilation released by G-Seri
 | <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BFront%5D.jpg" width="300" alt="3. Lokayot Front" /><br><sub><b>3. Lokayot Front</b></sub> | <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BInset-1%5D.jpg" width="300" alt="4. Lokayot Inset-1" /><br><sub><b>4. Lokayot Inset-1</b></sub> |
 | <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BInset-2%5D.jpg" width="300" alt="5. Lokayot Inset-2" /><br><sub><b>5. Lokayot Inset-2</b></sub> | <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BInset-3%5D.jpg" width="300" alt="6. Lokayot Inset-3" /><br><sub><b>6. Lokayot Inset-3</b></sub> |
 | <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BInset-4%5D.jpg" width="300" alt="7. Lokayot Inset-4" /><br><sub><b>7. Lokayot Inset-4</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
@@ -419,6 +467,12 @@ The historic debut installment of the milestone *Shopnochura* ("Dream Peak") ser
 | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront-Back%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront%5D.jpg" width="300" alt="2. Front Cover (Alternative Scan)" /><br><sub><b>2. Front Cover (Alternative Scan)</b></sub> |
 | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BInlay%5D.jpg" width="300" alt="3. Tray Inlay Artwork" /><br><sub><b>3. Tray Inlay Artwork</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Khudadad Towhid
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="10-agontuk-3-2005"></a><a id="6-agontuk-3-2005"></a><a id="7-agontuk-3-2005"></a><a id="agontuk-3-2005"></a>
@@ -460,6 +514,12 @@ The thrilling third installment of the Agontuk saga released in 2005 under Sound
 | <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BBooklet-1%5D.jpg" width="300" alt="2. Booklet (Part 1)" /><br><sub><b>2. Booklet (Part 1)</b></sub> |
 | <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BBooklet-2%5D.jpg" width="300" alt="3. Booklet (Part 2)" /><br><sub><b>3. Booklet (Part 2)</b></sub> | <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BInlay%5D.jpg" width="300" alt="4. Tray Inlay Artwork" /><br><sub><b>4. Tray Inlay Artwork</b></sub> |
 | <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BBack%5D.jpg" width="300" alt="5. Back Cover" /><br><sub><b>5. Back Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Khudadad Towhid
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
@@ -503,6 +563,12 @@ The acclaimed second volume of the *Shopnochura* series released in 2005 under G
 | <img src="Shopnochura%202%20%282005%29/Album%20Cover/Shopnochura%202%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Shopnochura%202%20%282005%29/Album%20Cover/Shopnochura%202%20%5BInset%5D.jpg" width="300" alt="2. Tray Inlay Artwork" /><br><sub><b>2. Tray Inlay Artwork</b></sub> |
 | <img src="Shopnochura%202%20%282005%29/Album%20Cover/Shopnochura%202%20%5BCD%5D.jpg" width="300" alt="3. Compact Disc (CD)" /><br><sub><b>3. Compact Disc (CD)</b></sub> | <img src="Shopnochura%202%20%282005%29/Album%20Cover/Shopnochura%202%20%5BBack%5D.jpg" width="300" alt="4. Back Cover" /><br><sub><b>4. Back Cover</b></sub> |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Khudadad Towhid
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="12-jewel-with-the-stars-2006"></a><a id="29-jewel-with-the-stars-2006"></a><a id="jewel-with-the-stars-2006"></a>
@@ -537,6 +603,12 @@ A critically acclaimed collaboration album conceived and produced by Iqbal Asif 
 | | |
 | :---: | :---: |
 | <img src="Jewel%20With%20The%20Stars%20%282006%29/Album%20Cover/Jewel%20with%20the%20stars%20%5BFront%5D.jpg" width="300" alt="1. Jewel with the stars Front" /><br><sub><b>1. Jewel with the stars Front</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
@@ -580,6 +652,12 @@ A landmark 2007 compilation album presented by G-Series bringing together elite 
 | <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BBooklet-2%5D.jpg" width="300" alt="3. Booklet (Part 2)" /><br><sub><b>3. Booklet (Part 2)</b></sub> | <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BBooklet-3%5D.jpg" width="300" alt="4. Booklet (Part 3)" /><br><sub><b>4. Booklet (Part 3)</b></sub> |
 | <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BBooklet-4%5D.jpg" width="300" alt="5. Booklet (Part 4)" /><br><sub><b>5. Booklet (Part 4)</b></sub> | <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Khudadad Towhid
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="14-neon-aloy-shagotom-2007"></a><a id="9-neon-aloy-shagotom-2007"></a><a id="neon-aloy-shagotom-2007"></a>
@@ -621,6 +699,12 @@ A pathbreaking alternative and indie rock compilation released in 2007 by G-Seri
 | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BPoster%5D.jpg" width="300" alt="5. Promotional Poster & Lyrics" /><br><sub><b>5. Promotional Poster & Lyrics</b></sub> | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BInlay-Front%5D.jpg" width="300" alt="6. Inlay (Front)" /><br><sub><b>6. Inlay (Front)</b></sub> |
 | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BCD%5D.jpg" width="300" alt="7. Compact Disc (CD)" /><br><sub><b>7. Compact Disc (CD)</b></sub> | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BInlay-Back%5D.jpg" width="300" alt="8. Back Inset" /><br><sub><b>8. Back Inset</b></sub> |
 | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BBack%5D.jpg" width="300" alt="9. Back Cover" /><br><sub><b>9. Back Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Khudadad Towhid
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
@@ -666,6 +750,12 @@ The celebrated third edition of the *Shopnochura* series, released in 2007 under
 | <img src="Shopnochura%203%20%282007%29/Album%20Cover/Shopnochura%203%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Shopnochura%203%20%282007%29/Album%20Cover/Shopnochura%203%20%5BInset-3%5D.jpg" width="300" alt="4. Inset (Part 3)" /><br><sub><b>4. Inset (Part 3)</b></sub> |
 | <img src="Shopnochura%203%20%282007%29/Album%20Cover/Shopnochura%203%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Shopnochura%203%20%282007%29/Album%20Cover/Shopnochura%203%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 | <img src="Shopnochura%203%20%282007%29/Album%20Cover/Shopnochura%203%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Khudadad Towhid
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
@@ -713,6 +803,12 @@ Fuad Al-Muqtadir's acclaimed 2008 collaborative album featuring dynamic genre-bl
 | :---: | :---: |
 | <img src="Bonno%20%282008%29/Album%20Cover/Bonno%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Radiohead
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="17-rock-101-2008"></a><a id="12-rock-101-2008"></a><a id="15-rock-101-2008"></a><a id="rock-101-2008"></a>
@@ -750,6 +846,12 @@ A powerhouse 2008 Bangladeshi rock compilation album featuring heavyweight track
 | | |
 | :---: | :---: |
 | <img src="Rock%20101%20%282008%29/Album%20Cover/Rock%20101%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Rienhart
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
@@ -793,6 +895,12 @@ The powerful second volume of the *Rock* compilation series released in 2009. Pa
 | :---: | :---: |
 | <img src="Rock%20202%20%282009%29/Album%20Cover/Rock%20202%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="19-rock-303-2009"></a><a id="14-rock-303-2009"></a><a id="rock-303-2009"></a>
@@ -834,6 +942,12 @@ The third volume in the *Rock* series, delivering 14 heavy progressive rock and 
 | | |
 | :---: | :---: |
 | <img src="Rock%20303%20%282009%29/Album%20Cover/Rock%20303%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
@@ -878,6 +992,12 @@ The explosive fourth volume of the *Rock* series released in 2010, featuring 15 
 | :---: | :---: |
 | <img src="Rock%20404%20%282010%29/Album%20Cover/Rock%20404%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="21-rock-505-2010"></a><a id="16-rock-505-2010"></a><a id="rock-505-2010"></a>
@@ -921,6 +1041,12 @@ The fifth edition of the powerhouse *Rock* compilation series featuring 15 relen
 | :---: | :---: |
 | <img src="Rock%20505%20%282010%29/Album%20Cover/Rock%20505%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="22-rock-606-2011"></a><a id="17-rock-606-2011"></a><a id="16-rock-606-2011"></a><a id="rock-606-2011"></a>
@@ -963,6 +1089,12 @@ A high-octane 2011 Bangladeshi rock compilation featuring 16 dynamic bands, high
 | | |
 | :---: | :---: |
 | <img src="Rock%20606%20%282011%29/Album%20Cover/Rock%20606%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
@@ -1008,6 +1140,12 @@ The seventh volume of the legendary *Rock* series released in 2011, featuring 16
 | :---: | :---: |
 | <img src="Rock%20707%20%282011%29/Album%20Cover/Rock%20707%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="24-shomorpon-2011"></a><a id="19-shomorpon-2011"></a><a id="shomorpon-2011"></a>
@@ -1042,6 +1180,12 @@ A landmark 2011 tribute compilation album dedicated to mystic bards **Lalon Shah
 | | |
 | :---: | :---: |
 | <img src="Shomorpon%20%282011%29/Album%20Cover/Shomorpon%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** NirZak (Nirjas Jakilim)
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
@@ -1146,6 +1290,12 @@ Released in October 2012 under G-Series and coordinated by Duray, *Hatiar* (*"Th
 | <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BCD%5D.jpg" width="300" alt="2. Compact Disc (CD)" /><br><sub><b>2. Compact Disc (CD)</b></sub> |
 | <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BBack%5D.jpg" width="300" alt="3. Back Cover" /><br><sub><b>3. Back Cover</b></sub> | <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BInlet%5D.jpg" width="300" alt="4. Hatiar [Inlet]" /><br><sub><b>4. Hatiar [Inlet]</b></sub> |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Anjan (@Ferezz98) / Shared by Saif
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="26-shopnochura-4-2014"></a><a id="21-shopnochura-4-2014"></a><a id="shopnochura-4-2014"></a>
@@ -1186,6 +1336,12 @@ Released in 2014 under G-Series and coordinated by Tony, *Shopnochura 4* marked 
 | :---: | :---: |
 | <img src="Shopnochura%204%20%282014%29/Album%20Cover/Shopnochura%204%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Khudadad Towhid
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="27-riotous-14-2015"></a><a id="30-riotous-14-2015"></a><a id="riotous-14-2015"></a>
@@ -1224,6 +1380,12 @@ A fierce 14-track metal collection released in 2015 by Incursion Music, opening 
 | | |
 | :---: | :---: |
 | <img src="Riotous%2014%20%282015%29/Album%20Cover/Riotous%2014%20%5BFront%5D.jpg" width="300" alt="1. Riotous 14 Front" /><br><sub><b>1. Riotous 14 Front</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
@@ -1265,6 +1427,12 @@ The eighth installment of the *Rock* compilation series released in 2015, featur
 | | |
 | :---: | :---: |
 | <img src="Rock%20808%20%282015%29/Album%20Cover/Rock%20808%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
@@ -1308,6 +1476,12 @@ The ninth installment of the *Rock* compilation series, featuring 12 heavy alter
 | :---: | :---: |
 | <img src="Rock%20909%20%282015%29/Album%20Cover/Rock%20909%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="30-rock-x0x-2015"></a><a id="24-rock-x0x-2015"></a><a id="rock-x0x-2015"></a>
@@ -1347,6 +1521,12 @@ The milestone tenth volume of the *Rock* series, delivering 11 tracks including 
 | | |
 | :---: | :---: |
 | <img src="Rock%20X0X%20%282015%29/Album%20Cover/Rock%20X0X%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
