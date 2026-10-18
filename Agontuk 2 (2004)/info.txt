@@ -1,0 +1,33 @@
+Album Name: Agontuk 2
+Album Type: Mixed
+Release Year: 2004
+Genre: Rock
+Total Songs: 14
+Track List:
+01. Juddho by Aurthohin
+02. Chile Kothar Shepai by Artcell
+03. Obocheton by Nemesis
+04. Krito Daash by ReBORN
+05. Odrishsho Juddho by Stentorian
+06. Artonaad by Arbovirus
+07. Prem by Cryptic Fate
+08. Shada by Breach
+09. Shesh by Kral
+10. Nishshash by Deathrow
+11. Shopno by dNA
+12. Shokarto Upokul by Black
+13. Arrival (Instrumental) by Warfaze
+14. Pepsi Crap by Various Artists
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 972 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.2.1 (2007-09-17)

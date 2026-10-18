@@ -1,0 +1,31 @@
+Album Name: Shopnochura 2
+Album Type: Mixed
+Release Year: 2005
+Genre: Indie / Alternative
+Total Songs: 12
+Track List:
+01. Ondho by Black
+02. Opurnotaa by X Factor
+03. Godhuly by Shironamhin
+04. Kahaar Maajhe by Raaga
+05. Durey by Acoustica
+06. Ekta Gopon Kothaa by Yaatri
+07. Oaleek Obokkhay by Striking
+08. Ondhokarey..... by Dark
+09. Aadhaar by Kalponik
+10. Shomoy by Rulz
+11. Baalark by Psychovina
+12. Shommohoon by Fake Plastic Superheroes
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 1 412 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.2.1 (2007-09-17)

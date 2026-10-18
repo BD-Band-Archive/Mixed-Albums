@@ -1,0 +1,26 @@
+Album Name: Shomorpon
+Album Type: Mixed
+Release Year: 2011
+Genre: Folk
+Total Songs: 7
+Track List:
+01. Aarshi Nogor by Warfaze
+02. Jaat Gelo Jaat Gelo by Warfaze
+03. Khanchar Vetor Ochin Paakhi by Warfaze
+04. Keno Piriti Barailare Bondhu by Habib Wahid
+05. Loke Bole Bolere by Aurthohin
+06. Ekdin Tor Hoibore Shoron by Aurthohin
+07. Matiro Pinjira by Aurthohin
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 926 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.3.1 (2014-11-25)

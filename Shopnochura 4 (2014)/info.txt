@@ -1,0 +1,30 @@
+Album Name: Shopnochura 4
+Album Type: Mixed
+Release Year: 2014
+Genre: Rock
+Total Songs: 11
+Track List:
+01. Kar Jonne by Black
+02. Ora Bodle Geche by Yaatri
+03. Olosh Poka by Project Neon
+04. Cholo Aaj Ghumiye Thaki by Aronno
+05. Ontoraler Onneshone by Xodiac
+06. Confusion Ache by SiN
+07. Ek Cup Cha by Shamudra
+08. Smarto by A.M.
+09. Nishshongo Ekaki by Highway
+10. Shesh Prohor by Ending Face
+11. Fire Dekha by Out Break
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 860 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : Mutagen 1.46.0

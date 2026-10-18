@@ -1,0 +1,30 @@
+Album Name: Rock X0X
+Album Type: Mixed
+Release Year: 2015
+Genre: Rock
+Total Songs: 11
+Track List:
+01. The Flight Of The Sparrow by X Factor
+02. Goal by Arbovirus
+03. Smriti by Shrapnel Method
+04. Paapi by Kral
+05. Uposhonghar by Conclusion
+06. Firey Esho by Faint
+07. Bondhu by Aborton
+08. Oporichita by Epitaph
+09. Pracheen by Circle
+10. Jadu by Tontro
+11. Dhadha by Zerg
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 978 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : Mutagen 1.46.0

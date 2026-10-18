@@ -1,0 +1,32 @@
+Album Name: Projonmo
+Album Type: Mixed
+Release Year: 2002
+Genre: Alternative
+Total Songs: 13
+Track List:
+01. Projonmo/Ajam Khan by Azam Khan
+02. Otit/Aurthohin by Aurthohin
+03. Dhushor Chhaya by Durey
+04. Shopner Chorus/Artcell by Artcell
+05. Odhikar/Cryptic Fate by Cryptic Fate
+06. Blues & Rod/Black by Black
+07. Jhumka by Subconscious
+08. Raat Nemechhe by Metal Maze
+09. Ondher Chokhe by Raja
+10. Ekshoti Chithhi by Shomoy
+11. Protikkha by Srishti
+12. Opurbo by Anything But Six
+13. Marlen Commercial (Wtf?!?!?!?!?!?!?!?!?!?) by WTF!
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 1 057 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.4.2 (2022-10-22)

@@ -1,0 +1,31 @@
+Album Name: Rock 909
+Album Type: Mixed
+Release Year: 2015
+Genre: Rock
+Total Songs: 12
+Track List:
+01. Omor by Black
+02. Elegy by Mechanix
+03. The Morning High by Avoid Rafa
+04. Shohure Rupkotha by Social Circus
+05. Niotir Adesh by Crozz
+06. Oddrishsho Oleek by Karnival
+07. Dushshopno by EF
+08. Prerona by Connected
+09. Shesh Shurjasto by Black Priest
+10. Shongshoptok by Seventeen
+11. Shesh Biday by Silverlight
+12. Salvation by Gunhawk
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 929 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : Mutagen 1.46.0

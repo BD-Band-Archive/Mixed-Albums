@@ -1,0 +1,33 @@
+Album Name: Rock 202
+Album Type: Mixed
+Release Year: 2009
+Genre: Rock
+Total Songs: 14
+Track List:
+01. Tumi Ki Sara Debe? by Black
+02. Kobor by X Factor
+03. Keu Na Keu by Yaatri
+04. Keu Karo Noy by Arbovirus
+05. Dhruboshor by Mechanix
+06. Rebelution by The Joint Family
+07. Shotto Hok by Road 31
+08. Shurjer Grohon by Overture
+09. Elomelo by Rock House
+10. Bondhu by Mohakaal
+11. Kalo Murti by Urban Fictions
+12. Doitota by Crematic X
+13. Osprisso Bhubon by Bishaurgo
+14. Shopnochari by Raat
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 994 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.4.3 (2023-06-23)

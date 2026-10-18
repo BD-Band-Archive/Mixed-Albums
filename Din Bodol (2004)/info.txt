@@ -1,0 +1,38 @@
+Album Name: Din Bodol
+Album Type: Mixed
+Release Year: 2004
+Genre: Hard Rock & Metal
+Total Songs: 19
+Track List:
+01. Ashirbad (Abc) by Artcell, Black & Cryptic Fate
+02. Osthir Shomoy by Metal Maze
+03. Shunno by Aashor
+04. Obhishap by Arbovirus
+05. Tarpor by Fulbanu's Revenge
+06. Dusshopno by Nemesis
+07. Boshonto by Breach
+08. Bhoy by Stentorian
+09. Nishpap Oporadh by Icons
+10. Ekhanei Mrittu by Poizon Green
+11. Shob Kichu by ReBORN
+12. Nishiddho Shonglap by Striking
+13. Trittio Bishwa by Music Zoo
+14. Mohakaal by Bivishika
+15. Dure Kothao by Scarecrow
+16. Obosheshe by Venyl N' Sugar
+17. Asroy by Moshpit
+18. Jokhon by Helldrivers
+19. Tarporeo Bangladesh by Bloodoria
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 1 026 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : Lavf58.29.100

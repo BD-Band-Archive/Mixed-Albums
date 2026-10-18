@@ -1,0 +1,34 @@
+Album Name: Rock 404
+Album Type: Mixed
+Release Year: 2010
+Genre: Rock
+Total Songs: 15
+Track List:
+01. Ondho by Cryptic Fate
+02. Rise of The Atlantis by X Factor
+03. Mriter Dhoni by Shrapnel Method
+04. The Bicycle Ride by The Joint Family
+05. Char Deyal by My 31st Demerit
+06. Itihash '71 by Mechanix
+07. Orunodoy by Defiance
+08. Chorom Onurage by Breach
+09. Trimatrik Jaal by Story Tellers
+10. Ekta Choto Porir Golpo by Sent Men Revolt
+11. Shawpno Bondona by Mohakaal
+12. Shunbe ki by Busride
+13. Lash Kata ghor by Psycho
+14. Sex by Last Episode
+15. Mass Murder For What by Mirror Blaze
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 1 070 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.4.3 (2023-06-23)

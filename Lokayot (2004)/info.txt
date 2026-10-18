@@ -1,0 +1,34 @@
+Album Name: Lokayot
+Album Type: Mixed
+Release Year: 2004
+Genre: Alternative
+Total Songs: 15
+Track List:
+01. Boyosh by Aurthohin
+02. Shotto by Black
+03. Chera Akash by Artcell
+04. Gontobbo by Cryptic Fate
+05. Neelkaal by Arbovirus
+06. Ohongkar by Icons
+07. Agrashon by ReBORN
+08. Neelkaal by Fulbanu's Revenge
+09. Protifolon by dNA
+10. Deyal Bhenge by Scarecrow
+11. Shopnolok by X-Uranium
+12. Neelkaal by Stentorian
+13. Bhobisshot by Bivishika
+14. Artochitkar by Striking
+15. Opekkhay by Kral
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 937 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.4.2 (2022-10-22)

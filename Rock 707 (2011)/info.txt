@@ -1,0 +1,35 @@
+Album Name: Rock 707
+Album Type: Mixed
+Release Year: 2011
+Genre: Rock
+Total Songs: 16
+Track List:
+01. Tomar Jonno by X Factor
+02. Jackal In Hide by Powersurge
+03. Autripto by Shrapnel Method
+04. Vision Of a Mind's Garden by The Joint Family
+05. Ushno Chowa by Sign of Cross
+06. Shaddher Porichoy by Bohemian
+07. Kalo Murti 2 by Urban Fictions
+08. Oprapti by Treadnote
+09. Durey by Busride
+10. Tyrant's Depiction by Strident
+11. Scissorhands by Owned
+12. Jihad by Cadaver
+13. Obaddho Bashona by Karnival
+14. Nitir Purohit by Defy
+15. Ronagro by Revolutus
+16. Breaking The Silence by Amen
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 1 025 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.4.3 (2023-06-23)

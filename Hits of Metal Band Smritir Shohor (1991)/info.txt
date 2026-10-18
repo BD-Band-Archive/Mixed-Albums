@@ -1,0 +1,33 @@
+Album Name: Hits of Metal Band Smritir Shohor
+Album Type: Mixed
+Release Year: 1991
+Genre: Rock/Metal
+Total Songs: 14
+Track List:
+01. Shekhano Bornona by Warfaze
+02. Aartonaad by Rockstarta
+03. Ei Raatey by In Dhaka
+04. Alokito Ondhokar by Glad Tiders
+05. Kokhono Tomai by Sweet Venom
+06. Boshe Achhi Eka by Warfaze
+07. Amakey Bhebona by Perspective
+08. Mone Porey Ki by In Dhaka
+09. Aar Noy Shontrash by Reshad
+10. Prerona by Glad Tiders
+11. Shamanno Dushshwopno by Rockstarta
+12. Ondho Jibon by Warfaze
+13. Smritir Shohor by In Dhaka
+14. Shwadhikar by Warfaze
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 1 016 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.3.0 (2013-05-26)

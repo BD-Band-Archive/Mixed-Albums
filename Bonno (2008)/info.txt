@@ -1,0 +1,37 @@
+Album Name: Bonno
+Album Type: Mixed
+Release Year: 2008
+Genre: Rock/Metal
+Total Songs: 18
+Track List:
+01. Intro by Arafat Kazi
+02. Junglee by Fuad
+03. Khub Chena Chena by Poonam
+04. Da Dushto Number by Bishop Rule
+05. Bonno Rap by Fuad
+06. Shukno Pata by Mila
+07. Hit Film by Lamia, Shaheen, Johan Shihab
+08. Jokhoni Nibir Kore by Elita
+09. Ke Bashi Bajai Re by Anila
+10. Nitol Paye (Live) by Johan, Fuad Shanto
+11. Prottasha by Fuad
+12. Protibader Kotha by Simin
+13. Tor Jonno Bonno by Upol
+14. Tumi Hina by Simin
+15. Danger by Avalanche
+16. Matir Pinjira by Laboni
+17. Prayashchitto by Arbovirus
+18. Shurjo Ghor Bari by Rahat
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 782 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.3.0 (2013-05-26)

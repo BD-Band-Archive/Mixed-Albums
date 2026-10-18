@@ -1,0 +1,32 @@
+Album Name: Neon Aloy Shagotom
+Album Type: Mixed
+Release Year: 2007
+Genre: World Pop
+Total Songs: 13
+Track List:
+01. Matal by Karnishay Magpie
+02. Nefartiti by Meghdal
+03. Shaundha Chai by Striking
+04. Shada Kalo by D Minor
+05. Asad Er Khola Chithhi by Shohortoli
+06. Ar Koto by Ajob
+07. Wandering With Clouds by Droobs
+08. Rat O Rajpoth Er Adda by Roadhouse
+09. Kuasha by Sporda
+10. Prolap by Biborton
+11. Ektu Boshia Thhako by Konok o Kartik
+12. Projonmer Shongram by Shohor
+13. Muthhophone by Shironamhin
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 900 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.3.0 (2013-05-26)

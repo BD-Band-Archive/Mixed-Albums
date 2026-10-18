@@ -1,0 +1,34 @@
+Album Name: Rock 505
+Album Type: Mixed
+Release Year: 2010
+Genre: Rock
+Total Songs: 15
+Track List:
+01. Bertho Shawpno by Black
+02. Prarthona by Arbovirus
+03. Shongga Shongjom by Kral
+04. Kobi by Opus
+05. Vengeful Inferno by Entrapment
+06. Axe Of War by Powersurge
+07. Janina by Bohemian
+08. Oprotiroddho by Absent Element
+09. Cheap Thrill by Rhee
+10. Shomadhi by Funeral Anthem
+11. Keno Ishshor by Urban Fictions
+12. Kolpona Noy by Heal
+13. Priyo Akash by Rip String
+14. Ispat Shokti Shell by Distorted Monkiez
+15. Shudder Thee Incensed Goddess by Severe Dementia
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 1 067 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.4.3 (2023-06-23)

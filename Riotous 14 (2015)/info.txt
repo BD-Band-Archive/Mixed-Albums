@@ -1,0 +1,33 @@
+Album Name: Riotous 14
+Album Type: Mixed
+Release Year: 2015
+Genre: Metal
+Total Songs: 14
+Track List:
+01. Karar Oi Louho Kopat by Artcell
+02. Mostishker Ongar by Bay of Bengal
+03. Abar Juddhe by Scarecrow
+04. The Enemy by Overlord
+05. Terror Scream by Powersurge
+06. Rise My Army Of The Undead by Abominable Carnivore
+07. Amar Khunira by Crusader
+08. Traash by Thrash
+09. Hades by Homicide
+10. Sroshta by Zerg
+11. Shironam Protibad by Hell Raizers
+12. Let There Be Blood by Shadow Realm
+13. Niyomer Dewal by Naïve
+14. Punno Ghatok by Sent Men Revolt
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 999 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : Mutagen 1.46.0

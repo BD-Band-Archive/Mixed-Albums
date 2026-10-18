@@ -1,0 +1,26 @@
+Album Name: Deep Nevar Age
+Album Type: Mixed
+Release Year: 2015
+Genre: International
+Total Songs: 7
+Track List:
+01. Shaada Kaalo (Duet) by Upol & Maher
+02. Ghum Gari by Arnob
+03. Tumi Nei Tai by Rafa
+04. Hajaar Deen by Adit
+05. Shobugh Ghasher Golpo by Ayub Bachchu
+06. Jhor by Arnob
+07. Je O Na by Tahseen
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 985 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : Lavf60.9.100

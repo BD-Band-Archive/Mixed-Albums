@@ -1,0 +1,32 @@
+Album Name: Onushilon
+Album Type: Mixed
+Release Year: 2002
+Genre: Metal / Rock
+Total Songs: 13
+Track List:
+01. Shurjo (সূর্য) by Aurthohin
+02. Shukh Pakhir Nagal (দূরে - সুখপাখীর নাগাল) by Durey
+03. Bidhata (ফেইথ - বিধাতা) by Faith
+04. Dukkho Bilash (দুঃখ বিলাস) by Artcell
+05. Bhalobashar Rong (মেটাল মেইজ - ভালবাসার রং) by Metal Maze
+06. Sriti (ব্ল্যাক - স্মৃতি) by Black
+07. Shokal Choyta (ক্রিপটিক ফেইট - সকাল ছয়টা) by Cryptic Fate
+08. Dhikkar (দূরে - ধিক্কার) by Durey
+09. Obinoshshor (ব্ল্যাক - অবিনশ্বর) by Black
+10. Opshori (অপসরী) by Artcell
+11. Natai Chhera (ফেইথ - নাটাই ছেঁড়া) by Faith
+12. Bisshasher Alo (মেটাল মেইজ - বিশ্বাসের আলো) by Metal Maze
+13. Eito Cholchhe (ক্রিপটিক ফেইট - এইতো চলছে) by Cryptic Fate
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 928 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.2.1 (2007-09-17)

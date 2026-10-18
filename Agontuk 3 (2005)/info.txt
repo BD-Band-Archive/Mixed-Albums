@@ -1,0 +1,34 @@
+Album Name: Agontuk 3
+Album Type: Mixed
+Release Year: 2005
+Genre: Rock/Metal
+Total Songs: 15
+Track List:
+01. Itihash by Aurthohin
+02. Bangladesh...Sriti O Amra by Artcell
+03. The Evening by Black
+04. Onadorer Shontan by Cryptic Fate
+05. Desh by Zefyr
+06. Avinoy by Icons
+07. Bimuro Monushotter Udvashon by Dripping Gore
+08. Mrittu (Jonmer Purbe) by Various Artists
+09. Dhnowar Majhe by Shadè
+10. Mukhosh Khule by Fulbanu's Revenge
+11. Mahashristir Gan by Aashor
+12. Moho- Echoes by Echoes
+13. Opare by Bivishika
+14. Tobuo by Nagorik
+15. Bishonno Andher by Stentorian
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 1 004 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.3.0 (2013-05-26)

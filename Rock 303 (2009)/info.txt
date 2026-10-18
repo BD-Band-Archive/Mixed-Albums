@@ -1,0 +1,33 @@
+Album Name: Rock 303
+Album Type: Mixed
+Release Year: 2009
+Genre: Rock
+Total Songs: 14
+Track List:
+01. Harano Onubhutigulo by Bhoutist
+02. Kandari Hushiar by Artcell
+03. Apon by Breach
+04. Shonga: Monushshotto by Kral
+05. Harano Sporsho by Phoenix
+06. Okritokarjo 'Shommanona' by Gene-Split
+07. Tumi by Eclipse
+08. Shobder Abeg by Hemorrage
+09. Nei Obhimaan (a tribute to Miles) by Groove Trap
+10. Cholo Cholo by Bohemian
+11. "Gaw…" by '71
+12. Shantir Aobhan by Aflamed
+13. Gaaner Gaan by Rhee
+14. Bichchhinno Abeg by Psychopath
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 923 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.4.3 (2023-06-23)

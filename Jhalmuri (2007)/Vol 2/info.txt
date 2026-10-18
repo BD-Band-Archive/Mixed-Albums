@@ -1,0 +1,27 @@
+Album Name: Jhalmuri (Vol 2)
+Album Type: Mixed
+Release Year: 2007
+Genre: World
+Total Songs: 8
+Track List:
+01. O Ami by Shobbhota
+02. Britter Baire by Shuvo
+03. Apekkha by Laura
+04. Katadur by Rupom
+05. Ghumiye Thakai Bhalo by Srabonti
+06. Cellphone Amar Cellphone by Syed Wakil Ahad
+07. Hridayer Dor by Nancy
+08. Chad Dekhe Keu by ArnoB
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 900 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : Mutagen 1.47.0

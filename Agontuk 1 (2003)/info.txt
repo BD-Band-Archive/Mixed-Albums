@@ -1,0 +1,32 @@
+Album Name: Agontuk 1
+Album Type: Mixed
+Release Year: 2003
+Genre: Rock/Metal
+Total Songs: 13
+Track List:
+01. A.O.D. by Aurthohin
+02. Palestine by Iqbal Asif Jewel
+03. Opolap by Black
+04. Chol Chol Chol by The Dew Drops
+05. Bondhu by Triloy
+06. Ochena by Coprophilia
+07. Ditio Prohor by K-Ronic
+08. Artonad by Poizon Green
+09. Durey Durey by Vibe
+10. Biday by Cryptic Fate
+11. Ostitter Dike Pododdhonir Shommohon by Artcell
+12. Bheshey Chola by Durey
+13. Pepsi Commercial by WTF!
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 949 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.3.0 (2013-05-26)

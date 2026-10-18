@@ -1,0 +1,33 @@
+Album Name: Charpotro
+Album Type: Mixed
+Release Year: 2001
+Genre: Rock
+Total Songs: 14
+Track List:
+01. Attohonon by Aurthohin
+02. Shukh Ei Gaane by Durey
+03. Proshno by Metal Maze
+04. Odekha Shorgo by Artcell
+05. Cholo Bangladesh by Cryptic Fate
+06. Jibon Mane by Canopy
+07. Bibeker Darr by Faith
+08. Maya by Aashor
+09. Chena Dukkho by Black
+10. Adhar by Srishti
+11. Bondi by Coprophilia
+12. Station by Agontuk
+13. Eka by Anything But Six
+14. [pepsi advertisement] by James
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 919 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.4.2 (2022-10-22)

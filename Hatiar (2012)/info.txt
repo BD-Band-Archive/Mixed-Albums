@@ -1,0 +1,81 @@
+Album Name: Hatiar
+Album Type: Mixed
+Release Year: 2012
+Genre: Rock
+Total Songs: 64
+Track List:
+01. Ayna by Poizon Green
+02. Cheleti by Black
+03. Tepantor by Cryptic Fate
+04. Ajob Mitther Jaal by Abhijukto
+05. Adhare Ar Shokale by Breach
+06. Neon Alo by Scarecrow
+07. Obosheshe by Icons
+08. Bangladesh by Nova
+09. Bishonno Bikel by Nagorik
+10. Jalo Aagun by The Trap
+11. Ohomika by Sent Men Revolt
+12. Boishakh by De-Illumination
+13. Jaroooj by Gene-Split
+14. Na by Yaatri
+15. Shadhin Deshe by Psychovina
+16. Bullet Er Epash Opash by Circle Of The 6th
+17. Okritoggo by Black Priest
+18. Prerona by Bohemian
+19. Opodebota by Karnival
+20. Chhayabondi by Prakritik
+21. Obosheshe by Aborton
+22. Sriti by Rip String
+23. Taharat by Silver Spoon
+24. Collapse Course by Optic Perception
+25. Aaj Theke by Divanweshi
+26. Deep Enough by Suicide Season
+27. Odrishsho Grohoraaj by Minerva
+28. Ditiyo Shotta by Zeal
+29. Durotto by Aasort
+30. Exit To Existence by Duat
+31. Shobdosrot by Oboyob
+32. Ke Tumi Kar... by Nirjhor
+33. Agamir Agontuk by Cadaver
+34. Aaspordha by Epitaph
+35. Slogan by Rajotto
+36. Kolpona Bilash by Dark Fragrance
+37. Rong by Heartzrelation Band (HRB)
+38. Shadhinota by Biborno
+39. Katatare Badha by Palash N Friends (PnF)
+40. Kuasha by Vengeance
+41. Ak Ruddho Bhorer Uddhar by Charkoal
+42. Bangladesh by Asphyxia
+43. A Death Worth Dying by Auflader
+44. Ondho Krodh by Necromaniac
+45. Oddhay Obosheshe by Arava
+46. Priyotoma by Lone Rangers
+47. Felani by Shohortoli
+48. Osposhto Ondhokar by Droho
+49. Joddha by Zerg
+50. Noshto Shomaj by Old Days
+51. Shrinkhol by Prachir
+52. Ruddhosor by Crematic X
+53. Awakened by Hammerhead
+54. Vul by Alive
+55. Critix by Minus+2
+56. Shopnodorshi by Owned
+57. Shopno by Slok
+58. Shunno Moruddan by Chayapath
+59. Livand Logun by D.H.
+60. The Dark Philosophy by Middle Earth
+61. Pobitro Paap by Ashes
+62. Shesh Oddhay by Blue Epoch
+63. Biporit Jibon by Seventh Sign
+64. Vabchhi by Akhra
+
+Media Info:
+Audio:
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : 1
+Bit rate mode                            : Constant
+Bit rate                                 : 1 411.2 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits

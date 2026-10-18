@@ -1,0 +1,27 @@
+Album Name: Jhalmuri (Vol 1)
+Album Type: Mixed
+Release Year: 2007
+Genre: Rock/Metal
+Total Songs: 8
+Track List:
+01. Rakhbo Kake by Punam
+02. Swapno Pabo by Tahmid
+03. Projapoti by Abida
+04. Shukh Pakhi by Labik Kamal Gaurob
+05. Dur Theke by ARMIN / Nabila
+06. Kobe Jabo by Tanvir Alam Shawjeeb
+07. Ekta Chhele by Sahana
+08. Swapno Bariye Jodi by Bappa Mazumder
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 823 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : Lavf58.76.100
