@@ -14,44 +14,48 @@
 
 ## 📑 Discography Index
 
-1. [Hits of Metal Band Smritir Shohor (স্মৃতির শহর) (1991)](#1-hits-of-metal-band-smritir-shohor-1991)
-2. [Charpotro (ছাড়পত্র) (2001)](#2-charpotro-2001)
-3. [Onushilon (অনুশীলন) (2002)](#3-onushilon-2002)
-4. [Projonmo (প্রজন্ম) (2002)](#4-projonmo-2002)
-5. [Agontuk 1 (আগন্তুক ১) (2003)](#5-agontuk-1-2003)
-6. [Agontuk 2 (আগন্তুক ২) (2004)](#6-agontuk-2-2004)
-7. [Din Bodol (দিন বদল) (2004)](#7-din-bodol-2004)
-8. [Lokayot (লোকাযত) (2004)](#8-lokayot-2004)
-9. [Shopnochura (স্বপ্নচূড়া) (2004)](#9-shopnochura-2004)
-10. [Agontuk 3 (আগন্তুক ৩) (2005)](#10-agontuk-3-2005)
-11. [Shopnochura 2 (স্বপ্নচূড়া ২) (2005)](#11-shopnochura-2-2005)
-12. [Jewel With The Stars (2006)](#12-jewel-with-the-stars-2006)
-13. [Live Now (লাইভ নাও) (2007)](#13-live-now-2007)
-14. [Neon Aloy Shagotom (নিয়ন আলোয় স্বাগতম) (2007)](#14-neon-aloy-shagotom-2007)
-15. [Shopnochura 3 (স্বপ্নচূড়া ৩) (2007)](#15-shopnochura-3-2007)
-16. [Jhalmuri 1 (ঝালমুড়ি ১) (2007)](#16-jhalmuri-1-2007)
-17. [Jhalmuri 2 (ঝালমুড়ি ২) (2007)](#17-jhalmuri-2-2007)
-18. [Bonno (বন্য) (2008)](#18-bonno-2008)
-19. [Rock 101 (রক ১০১) (2008)](#19-rock-101-2008)
-20. [Rock 202 (রক ২০২) (2009)](#20-rock-202-2009)
-21. [Rock 303 (রক ৩০৩) (2009)](#21-rock-303-2009)
-22. [Rock 404 (রক ৪০৪) (2010)](#22-rock-404-2010)
-23. [Rock 505 (রক ৫০৫) (2010)](#23-rock-505-2010)
-24. [Rock 606 (রক ৬০৬) (2011)](#24-rock-606-2011)
-25. [Rock 707 (রক ৭০৭) (2011)](#25-rock-707-2011)
-26. [Shomorpon (সমর্পণ) (2011)](#26-shomorpon-2011)
-27. [Hatiar (হাতিয়ার) (2012)](#27-hatiar-2012)
-28. [Shopnochura 4 (স্বপ্নচূড়া ৪) (2014)](#28-shopnochura-4-2014)
-29. [Riotous 14 (2015)](#29-riotous-14-2015)
-30. [Rock 808 (রক ৮০৮) (2015)](#30-rock-808-2015)
-31. [Rock 909 (রক ৯০৯) (2015)](#31-rock-909-2015)
-32. [Rock X0X (রক ১০১০) (2015)](#32-rock-x0x-2015)
-33. [Deep Nevar Age (দীপ নেভার আগে) (2015)](#33-deep-nevar-age-2015)
+
+1. [Hits of Metal Band Smritir Shohor (স্মৃতির শহর) (1991)](#1-hits-of-metal-band-smritir-shohor)
+2. [Charpotro (ছাড়পত্র) (2001)](#2-charpotro)
+3. [Onushilon (অনুশীলন) (2002)](#3-onushilon)
+4. [Projonmo (প্রজন্ম) (2002)](#4-projonmo)
+5. [Agontuk 1 (আগন্তুক ১) (2003)](#5-agontuk-1)
+6. [Agontuk 2 (আগন্তুক ২) (2004)](#6-agontuk-2)
+7. [Din Bodol (দিন বদল) (2004)](#7-din-bodol)
+8. [Lokayot (লোকাযত) (2004)](#8-lokayot)
+9. [Shopnochura (স্বপ্নচূড়া) (2004)](#9-shopnochura)
+10. [Agontuk 3 (আগন্তুক ৩) (2005)](#10-agontuk-3)
+11. [Shopnochura 2 (স্বপ্নচূড়া ২) (2005)](#11-shopnochura-2)
+12. [Prarthona (প্রার্থনা) (2006)](#12-prarthona)
+13. [Jewel With The Stars (2006)](#13-jewel-with-the-stars)
+14. [Live Now (লাইভ নাও) (2007)](#14-live-now)
+15. [Neon Aloy Shagotom (নিয়ন আলোয় স্বাগতম) (2007)](#15-neon-aloy-shagotom)
+16. [Shopnochura 3 (স্বপ্নচূড়া ৩) (2007)](#16-shopnochura-3)
+17. [Jhalmuri 1 (ঝালমুড়ি ১) (2007)](#17-jhalmuri-1)
+18. [Jhalmuri 2 (ঝালমুড়ি ২) (2007)](#18-jhalmuri-2)
+19. [Bonno (বন্য) (2008)](#19-bonno)
+20. [Rock 101 (রক ১০১) (2008)](#20-rock-101)
+21. [Rock 202 (রক ২০২) (2009)](#21-rock-202)
+22. [Rock 303 (রক ৩০৩) (2009)](#22-rock-303)
+23. [Rock 404 (রক ৪০৪) (2010)](#23-rock-404)
+24. [Rock 505 (রক ৫০৫) (2010)](#24-rock-505)
+25. [Rock 606 (রক ৬০৬) (2011)](#25-rock-606)
+26. [Rock 707 (রক ৭০৭) (2011)](#26-rock-707)
+27. [Republic - A Band Compilation (2011)](#27-republic---a-band-compilation)
+28. [Shomorpon (সমর্পণ) (2011)](#28-shomorpon)
+29. [Hatiar (হাতিয়ার) (2012)](#29-hatiar)
+30. [Shopnochura 4 (স্বপ্নচূড়া ৪) (2014)](#30-shopnochura-4)
+31. [Riotous 14 (2015)](#31-riotous-14)
+32. [Rock 808 (রক ৮০৮) (2015)](#32-rock-808)
+33. [Rock 909 (রক ৯০৯) (2015)](#33-rock-909)
+34. [Rock X0X (রক ১০১০) (2015)](#34-rock-x0x)
+35. [Deep Nevar Age (দীপ নেভার আগে) (2015)](#35-deep-nevar-age)
 
 ---
 
-<a id="1-hits-of-metal-band-smritir-shohor-1991"></a><a id="25-hits-of-metal-band-smritir-shohor-1991"></a><a id="hits-of-metal-band-smritir-shohor-1991"></a><a id="hits-of-metal-band-1991"></a>
+<a id="1-hits-of-metal-band-smritir-shohor"></a><a id="1-hits-of-metal-band-smritir-shohor-1991"></a><a id="25-hits-of-metal-band-smritir-shohor-1991"></a><a id="hits-of-metal-band-smritir-shohor-1991"></a><a id="hits-of-metal-band-1991"></a><a id="hits-of-metal-band-smritir-shohor"></a>
 ## 1. Hits of Metal Band Smritir Shohor (স্মৃতির শহর) (1991)
+
 - **Album:** Hits of Metal Band Smritir Shohor (স্মৃতির শহর) (1991)
 - **Release Year:** 1991
 - **Record Label:** Soundtek / Sargam
@@ -85,9 +89,8 @@ A monumental early milestone in Bangladeshi rock and heavy metal history release
 
 | | |
 | :---: | :---: |
-| <img src="Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/Album%20Cover/Hits%20Of%20Metal%20Band%20%5BBack%5D.jpg" width="300" alt="1. Hits Of Metal Band Back" /><br><sub><b>1. Hits Of Metal Band Back</b></sub> | <img src="Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/Album%20Cover/Hits%20Of%20Metal%20Band%20%5BCD%5D.jpg" width="300" alt="2. Hits Of Metal Band CD" /><br><sub><b>2. Hits Of Metal Band CD</b></sub> |
-| <img src="Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/Album%20Cover/Hits%20Of%20Metal%20Band%20%5BFront%5D.jpg" width="300" alt="3. Hits Of Metal Band Front" /><br><sub><b>3. Hits Of Metal Band Front</b></sub> | <img src="Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/Album%20Cover/Hits%20Of%20Metal%20Band%20%5BInlay%5D.jpg" width="300" alt="4. Hits Of Metal Band Inlay" /><br><sub><b>4. Hits Of Metal Band Inlay</b></sub> |
-
+| <img src="Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/Album%20Cover/Hits%20Of%20Metal%20Band%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/Album%20Cover/Hits%20Of%20Metal%20Band%20%5BInlay%5D.jpg" width="300" alt="2. Tray Inlay Artwork" /><br><sub><b>2. Tray Inlay Artwork</b></sub> |
+| <img src="Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/Album%20Cover/Hits%20Of%20Metal%20Band%20%5BBack%5D.jpg" width="300" alt="3. Band Photography" /><br><sub><b>3. Band Photography</b></sub> | <img src="Hits%20of%20Metal%20Band%20Smritir%20Shohor%20%281991%29/Album%20Cover/Hits%20Of%20Metal%20Band%20%5BCD%5D.jpg" width="300" alt="4. Band Photography" /><br><sub><b>4. Band Photography</b></sub> |
 
 ### 💿 CD Ripper & Preservation Credit
 
@@ -96,8 +99,9 @@ A monumental early milestone in Bangladeshi rock and heavy metal history release
 
 ---
 
-<a id="2-charpotro-2001"></a><a id="26-charpotro-2001"></a><a id="charpotro-2001"></a>
+<a id="2-charpotro"></a><a id="2-charpotro-2001"></a><a id="26-charpotro-2001"></a><a id="charpotro-2001"></a><a id="charpotro"></a>
 ## 2. Charpotro (ছাড়পত্র) (2001)
+
 - **Album:** Charpotro (ছাড়পত্র) (2001)
 - **Release Year:** 2001
 - **Record Label:** G-Series
@@ -131,10 +135,9 @@ A historic compilation album released by G-Series in 2001 that heralded Banglade
 
 | | |
 | :---: | :---: |
-| <img src="Charpotro%20%282001%29/Album%20Cover/Charporto%20%5BCD%5D.jpg" width="300" alt="1. Charporto CD" /><br><sub><b>1. Charporto CD</b></sub> | <img src="Charpotro%20%282001%29/Album%20Cover/Charpotro%20%5BBack%5D.jpg" width="300" alt="2. Charpotro Back" /><br><sub><b>2. Charpotro Back</b></sub> |
-| <img src="Charpotro%20%282001%29/Album%20Cover/Charpotro%20%5BFront%5D.jpg" width="300" alt="3. Charpotro Front" /><br><sub><b>3. Charpotro Front</b></sub> | <img src="Charpotro%20%282001%29/Album%20Cover/Charpotro%20%5BInset-1%5D.jpg" width="300" alt="4. Charpotro Inset-1" /><br><sub><b>4. Charpotro Inset-1</b></sub> |
-| <img src="Charpotro%20%282001%29/Album%20Cover/Charpotro%20%5BInset-2%5D.jpg" width="300" alt="5. Charpotro Inset-2" /><br><sub><b>5. Charpotro Inset-2</b></sub> |  |
-
+| <img src="Charpotro%20%282001%29/Album%20Cover/Charpotro%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Charpotro%20%282001%29/Album%20Cover/Charpotro%20%5BInset-1%5D.jpg" width="300" alt="2. Inset (Part 1)" /><br><sub><b>2. Inset (Part 1)</b></sub> |
+| <img src="Charpotro%20%282001%29/Album%20Cover/Charpotro%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Charpotro%20%282001%29/Album%20Cover/Charporto%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
+| <img src="Charpotro%20%282001%29/Album%20Cover/Charpotro%20%5BBack%5D.jpg" width="300" alt="5. Back Cover" /><br><sub><b>5. Back Cover</b></sub> |  |
 
 ### 💿 CD Ripper & Preservation Credit
 
@@ -143,8 +146,9 @@ A historic compilation album released by G-Series in 2001 that heralded Banglade
 
 ---
 
-<a id="3-onushilon-2002"></a><a id="1-onushilon-2002"></a><a id="2-onushilon-2002"></a><a id="onushilon-2002"></a>
+<a id="3-onushilon"></a><a id="3-onushilon-2002"></a><a id="1-onushilon-2002"></a><a id="2-onushilon-2002"></a><a id="onushilon-2002"></a><a id="onushilon"></a>
 ## 3. Onushilon (অনুশীলন) (2002)
+
 - **Album:** Onushilon (অনুশীলন)
 - **Release Year:** 2002
 - **Record Label:** G-Series
@@ -181,7 +185,6 @@ A historic underground compilation album released in 2002 under G-Series featuri
 | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BFront%5D_2.jpg" width="300" alt="3. Front Cover (Alternative Scan)" /><br><sub><b>3. Front Cover (Alternative Scan)</b></sub> | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BLyrics%5D.jpg" width="300" alt="4. Booklet & Lyrics" /><br><sub><b>4. Booklet & Lyrics</b></sub> |
 | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BInset%5D.jpg" width="300" alt="5. Tray Inlay Artwork" /><br><sub><b>5. Tray Inlay Artwork</b></sub> | <img src="Onushilon%20%282002%29/Album%20Cover/Onushilon%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Bangla Flac Preservation Community
@@ -189,8 +192,9 @@ A historic underground compilation album released in 2002 under G-Series featuri
 
 ---
 
-<a id="4-projonmo-2002"></a><a id="27-projonmo-2002"></a><a id="projonmo-2002"></a>
+<a id="4-projonmo"></a><a id="4-projonmo-2002"></a><a id="27-projonmo-2002"></a><a id="projonmo-2002"></a><a id="projonmo"></a>
 ## 4. Projonmo (প্রজন্ম) (2002)
+
 - **Album:** Projonmo (প্রজন্ম) (2002)
 - **Release Year:** 2002
 - **Record Label:** Soundtek
@@ -223,10 +227,9 @@ An iconic 2002 alternative rock compilation album produced by Soundtek, featurin
 
 | | |
 | :---: | :---: |
-| <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BBack%5D.jpg" width="300" alt="1. Projonmo Back" /><br><sub><b>1. Projonmo Back</b></sub> | <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BCD%5D.jpg" width="300" alt="2. Projonmo CD" /><br><sub><b>2. Projonmo CD</b></sub> |
-| <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BFront%5D.jpg" width="300" alt="3. Projonmo Front" /><br><sub><b>3. Projonmo Front</b></sub> | <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BInset-1%5D.jpg" width="300" alt="4. Projonmo Inset-1" /><br><sub><b>4. Projonmo Inset-1</b></sub> |
-| <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BInset-2%5D.jpg" width="300" alt="5. Projonmo Inset-2" /><br><sub><b>5. Projonmo Inset-2</b></sub> |  |
-
+| <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BInset-1%5D.jpg" width="300" alt="2. Inset (Part 1)" /><br><sub><b>2. Inset (Part 1)</b></sub> |
+| <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
+| <img src="Projonmo%20%282002%29/Album%20Cover/Projonmo%20%5BBack%5D.jpg" width="300" alt="5. Back Cover" /><br><sub><b>5. Back Cover</b></sub> |  |
 
 ### 💿 CD Ripper & Preservation Credit
 
@@ -235,8 +238,9 @@ An iconic 2002 alternative rock compilation album produced by Soundtek, featurin
 
 ---
 
-<a id="5-agontuk-1-2003"></a><a id="2-agontuk-1-2003"></a><a id="4-agontuk-1-2003"></a><a id="agontuk-1-2003"></a>
+<a id="5-agontuk-1"></a><a id="5-agontuk-1-2003"></a><a id="2-agontuk-1-2003"></a><a id="4-agontuk-1-2003"></a><a id="agontuk-1-2003"></a><a id="agontuk-1"></a>
 ## 5. Agontuk 1 (আগন্তুক ১) (2003)
+
 - **Album:** Agontuk 1 (আগন্তুক ১)
 - **Release Year:** 2003
 - **Record Label:** Soundtek
@@ -273,7 +277,6 @@ The legendary first installment of the Agontuk mixed album series produced by Iq
 | <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
 | <img src="Agontuk%201%20%282003%29/Album%20Cover/Agontuk%201%20%5BBack%5D.jpg" width="300" alt="5. Back Cover" /><br><sub><b>5. Back Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Khudadad Towhid
@@ -281,8 +284,9 @@ The legendary first installment of the Agontuk mixed album series produced by Iq
 
 ---
 
-<a id="6-agontuk-2-2004"></a><a id="3-agontuk-2-2004"></a><a id="5-agontuk-2-2004"></a><a id="agontuk-2-2004"></a>
+<a id="6-agontuk-2"></a><a id="6-agontuk-2-2004"></a><a id="3-agontuk-2-2004"></a><a id="5-agontuk-2-2004"></a><a id="agontuk-2-2004"></a><a id="agontuk-2"></a>
 ## 6. Agontuk 2 (আগন্তুক ২) (2004)
+
 - **Album:** Agontuk 2 (আগন্তুক ২)
 - **Release Year:** 2004
 - **Record Label:** Soundtek
@@ -320,7 +324,6 @@ The monumental second chapter of the Agontuk series released under Soundtek in 2
 | <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BBooklet%5D.jpg" width="300" alt="3. Booklet & Lyrics" /><br><sub><b>3. Booklet & Lyrics</b></sub> | <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BInlay%5D.jpg" width="300" alt="4. Tray Inlay Artwork" /><br><sub><b>4. Tray Inlay Artwork</b></sub> |
 | <img src="Agontuk%202%20%282004%29/Album%20Cover/Agontuk%202%20%5BCD%5D.jpg" width="300" alt="5. Compact Disc (CD)" /><br><sub><b>5. Compact Disc (CD)</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** NirZak (Nirjas Jakilim)
@@ -328,8 +331,9 @@ The monumental second chapter of the Agontuk series released under Soundtek in 2
 
 ---
 
-<a id="7-din-bodol-2004"></a><a id="4-din-bodol-2004"></a><a id="6-din-bodol-2004"></a><a id="din-bodol-2004"></a>
+<a id="7-din-bodol"></a><a id="7-din-bodol-2004"></a><a id="4-din-bodol-2004"></a><a id="6-din-bodol-2004"></a><a id="din-bodol-2004"></a><a id="din-bodol"></a>
 ## 7. Din Bodol (দিন বদল) (2004)
+
 - **Album:** Din Bodol (দিন বদল)
 - **Release Year:** 2004
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
@@ -372,7 +376,6 @@ A milestone 19-track Bangladeshi mixed rock album released in 2004, spearheaded 
 | <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BInset-5%5D.jpg" width="300" alt="6. Inset (Part 5)" /><br><sub><b>6. Inset (Part 5)</b></sub> |
 | <img src="Din%20Bodol%20%282004%29/Album%20Cover/Din%20Bodol%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Amirul Rifat
@@ -380,8 +383,9 @@ A milestone 19-track Bangladeshi mixed rock album released in 2004, spearheaded 
 
 ---
 
-<a id="8-lokayot-2004"></a><a id="28-lokayot-2004"></a><a id="lokayot-2004"></a>
+<a id="8-lokayot"></a><a id="8-lokayot-2004"></a><a id="28-lokayot-2004"></a><a id="lokayot-2004"></a><a id="lokayot"></a>
 ## 8. Lokayot (লোকাযত) (2004)
+
 - **Album:** Lokayot (লোকাযত) (2004)
 - **Release Year:** 2004
 - **Record Label:** G-Series
@@ -416,11 +420,10 @@ A heavyweight 15-track underground rock and metal compilation released by G-Seri
 
 | | |
 | :---: | :---: |
-| <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BBack%5D.jpg" width="300" alt="1. Lokayot Back" /><br><sub><b>1. Lokayot Back</b></sub> | <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BCD%5D.jpg" width="300" alt="2. Lokayot CD" /><br><sub><b>2. Lokayot CD</b></sub> |
-| <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BFront%5D.jpg" width="300" alt="3. Lokayot Front" /><br><sub><b>3. Lokayot Front</b></sub> | <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BInset-1%5D.jpg" width="300" alt="4. Lokayot Inset-1" /><br><sub><b>4. Lokayot Inset-1</b></sub> |
-| <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BInset-2%5D.jpg" width="300" alt="5. Lokayot Inset-2" /><br><sub><b>5. Lokayot Inset-2</b></sub> | <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BInset-3%5D.jpg" width="300" alt="6. Lokayot Inset-3" /><br><sub><b>6. Lokayot Inset-3</b></sub> |
-| <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BInset-4%5D.jpg" width="300" alt="7. Lokayot Inset-4" /><br><sub><b>7. Lokayot Inset-4</b></sub> |  |
-
+| <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BInset-1%5D.jpg" width="300" alt="2. Inset (Part 1)" /><br><sub><b>2. Inset (Part 1)</b></sub> |
+| <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BInset-3%5D.jpg" width="300" alt="4. Inset (Part 3)" /><br><sub><b>4. Inset (Part 3)</b></sub> |
+| <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
+| <img src="Lokayot%20%282004%29/Album%20Cover/Lokayot%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
 
 ### 💿 CD Ripper & Preservation Credit
 
@@ -429,8 +432,9 @@ A heavyweight 15-track underground rock and metal compilation released by G-Seri
 
 ---
 
-<a id="9-shopnochura-2004"></a><a id="5-shopnochura-2004"></a><a id="shopnochura-2004"></a>
+<a id="9-shopnochura"></a><a id="9-shopnochura-2004"></a><a id="5-shopnochura-2004"></a><a id="shopnochura-2004"></a><a id="shopnochura"></a>
 ## 9. Shopnochura (স্বপ্নচূড়া) (2004)
+
 - **Album:** Shopnochura (স্বপ্নচূড়া)
 - **Release Year:** 2004
 - **Record Label:** G-Series
@@ -470,7 +474,6 @@ The historic debut installment of the milestone *Shopnochura* ("Dream Peak") ser
 | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront-Back%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BFront%5D.jpg" width="300" alt="2. Front Cover (Alternative Scan)" /><br><sub><b>2. Front Cover (Alternative Scan)</b></sub> |
 | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BInlay%5D.jpg" width="300" alt="3. Tray Inlay Artwork" /><br><sub><b>3. Tray Inlay Artwork</b></sub> | <img src="Shopnochura%20%282004%29/Album%20Cover/Shopnochura%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Khudadad Towhid
@@ -478,8 +481,9 @@ The historic debut installment of the milestone *Shopnochura* ("Dream Peak") ser
 
 ---
 
-<a id="10-agontuk-3-2005"></a><a id="6-agontuk-3-2005"></a><a id="7-agontuk-3-2005"></a><a id="agontuk-3-2005"></a>
+<a id="10-agontuk-3"></a><a id="10-agontuk-3-2005"></a><a id="6-agontuk-3-2005"></a><a id="7-agontuk-3-2005"></a><a id="agontuk-3-2005"></a><a id="agontuk-3"></a>
 ## 10. Agontuk 3 (আগন্তুক ৩) (2005)
+
 - **Album:** Agontuk 3 (আগন্তুক ৩)
 - **Release Year:** 2005
 - **Record Label:** Soundtek
@@ -516,8 +520,7 @@ The thrilling third installment of the Agontuk saga released in 2005 under Sound
 | :---: | :---: |
 | <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BBooklet-1%5D.jpg" width="300" alt="2. Booklet (Part 1)" /><br><sub><b>2. Booklet (Part 1)</b></sub> |
 | <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BBooklet-2%5D.jpg" width="300" alt="3. Booklet (Part 2)" /><br><sub><b>3. Booklet (Part 2)</b></sub> | <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BInlay%5D.jpg" width="300" alt="4. Tray Inlay Artwork" /><br><sub><b>4. Tray Inlay Artwork</b></sub> |
-| <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BBack%5D.jpg" width="300" alt="5. Back Cover" /><br><sub><b>5. Back Cover</b></sub> |  |
-
+| <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BBack%5D.jpg" width="300" alt="5. Back Cover" /><br><sub><b>5. Back Cover</b></sub> | <img src="Agontuk%203%20%282005%29/Album%20Cover/Agontuk%203%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 
 ### 💿 CD Ripper & Preservation Credit
 
@@ -526,8 +529,9 @@ The thrilling third installment of the Agontuk saga released in 2005 under Sound
 
 ---
 
-<a id="11-shopnochura-2-2005"></a><a id="7-shopnochura-2-2005"></a><a id="shopnochura-2-2005"></a>
+<a id="11-shopnochura-2"></a><a id="11-shopnochura-2-2005"></a><a id="7-shopnochura-2-2005"></a><a id="shopnochura-2-2005"></a><a id="shopnochura-2"></a>
 ## 11. Shopnochura 2 (স্বপ্নচূড়া ২) (2005)
+
 - **Album:** Shopnochura 2 (স্বপ্নচূড়া ২)
 - **Release Year:** 2005
 - **Record Label:** G-Series
@@ -566,7 +570,6 @@ The acclaimed second volume of the *Shopnochura* series released in 2005 under G
 | <img src="Shopnochura%202%20%282005%29/Album%20Cover/Shopnochura%202%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Shopnochura%202%20%282005%29/Album%20Cover/Shopnochura%202%20%5BInset%5D.jpg" width="300" alt="2. Tray Inlay Artwork" /><br><sub><b>2. Tray Inlay Artwork</b></sub> |
 | <img src="Shopnochura%202%20%282005%29/Album%20Cover/Shopnochura%202%20%5BCD%5D.jpg" width="300" alt="3. Compact Disc (CD)" /><br><sub><b>3. Compact Disc (CD)</b></sub> | <img src="Shopnochura%202%20%282005%29/Album%20Cover/Shopnochura%202%20%5BBack%5D.jpg" width="300" alt="4. Back Cover" /><br><sub><b>4. Back Cover</b></sub> |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Khudadad Towhid
@@ -574,8 +577,55 @@ The acclaimed second volume of the *Shopnochura* series released in 2005 under G
 
 ---
 
-<a id="12-jewel-with-the-stars-2006"></a><a id="29-jewel-with-the-stars-2006"></a><a id="jewel-with-the-stars-2006"></a>
-## 12. Jewel With The Stars (2006)
+<a id="12-prarthona"></a><a id="prarthona-2006"></a><a id="prarthona"></a>
+## 12. Prarthona (প্রার্থনা) (2006)
+
+- **Album:** Prarthona (প্রার্থনা)
+- **Release Year:** 2006
+- **Record Label:** G-Series
+- **Audio Quality:** Lossless WAV (16-bit / 44.1 kHz PCM)
+
+<p align="center">
+  <img src="Prarthona%20%282006%29/Album%20Cover/Prarthona%20%5Bfront%5D.jpg" width="300" alt="Prarthona Album Cover" />
+</p>
+
+### 📖 About the Album
+Released in October 2006 under G-Series, *Prarthona* ("Prayer") was a landmark compilation in the mid-2000s Bangladeshi underground rock movement. Featuring heavy alternative riffs, expressive acoustic textures, and hard-rock anthems, the record debuted standout tracks from powerhouse underground acts including Adhar (*"Dirgohsash"*), Tepantor (*"Shomporko"*), Tomosh (*"Noor"*), and D.O.T (*"Opurnotay Purno"*).
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Adhar - Dirgohsash**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/01%20Dirgohsash.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/01%20Dirgohsash.wav?download=true)
+- [**Tepantor - Shomporko**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/02%20Shomporko.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/02%20Shomporko.wav?download=true)
+- [**Dwfs - Bhor**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/03%20Bhor.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/03%20Bhor.wav?download=true)
+- [**Tomosh - Noor**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/04%20Noor.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/04%20Noor.wav?download=true)
+- [**Kalponik - Oshtither Grash**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/05%20Oshtither%20Grash.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/05%20Oshtither%20Grash.wav?download=true)
+- [**Aloukik - Mitha Ashroy**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/06%20Mitha%20Ashroy.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/06%20Mitha%20Ashroy.wav?download=true)
+- [**3rd World - Dhushor**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/07%20Dhushor.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/07%20Dhushor.wav?download=true)
+- [**D/Zeal - Shopner Chiya**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/08%20Shopner%20Chiya.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/08%20Shopner%20Chiya.wav?download=true)
+- [**Prachir - Iccher Pore**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/09%20Iccher%20Poray.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/09%20Iccher%20Poray.wav?download=true)
+- [**Orbz - Ronokhetro**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/10%20Ronokhetro.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/10%20Ronokhetro.wav?download=true)
+- [**Forbidden Truth - Protibodh**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/11%20Protibodh.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/11%20Protibodh.wav?download=true)
+- [**Darkends - Dhrobo Shotto**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/12%20Dhrobo%20Shotto.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/12%20Dhrobo%20Shotto.wav?download=true)
+- [**Genesplit - Opekha**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/13%20Opekha.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/13%20Opekha.wav?download=true)
+- [**Drek - Opurnotay**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/14%20Opurnotay.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/14%20Opurnotay.wav?download=true)
+- [**D.O.T - Opurnotay Purno**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/15%20Opurnotay%20Purno.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Prarthona%20%282006%29/15%20Opurnotay%20Purno.wav?download=true)
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Prarthona%20%282006%29/Album%20Cover/Prarthona%20%5Bfront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Prarthona%20%282006%29/Album%20Cover/Prarthona%20%5Binlet%5D.jpg" width="300" alt="2. Prarthona [inlet]" /><br><sub><b>2. Prarthona [inlet]</b></sub> |
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Bangla Lossless Audio Preservation Archive
+- **Source:** Original Physical CD Lossless Audio Archive
+
+---
+
+<a id="13-jewel-with-the-stars"></a><a id="12-jewel-with-the-stars-2006"></a><a id="29-jewel-with-the-stars-2006"></a><a id="jewel-with-the-stars-2006"></a><a id="jewel-with-the-stars"></a>
+## 13. Jewel With The Stars (2006)
+
 - **Album:** Jewel With The Stars (2006)
 - **Release Year:** 2006
 - **Record Label:** Soundtek
@@ -605,8 +655,7 @@ A critically acclaimed collaboration album conceived and produced by Iqbal Asif 
 
 | | |
 | :---: | :---: |
-| <img src="Jewel%20With%20The%20Stars%20%282006%29/Album%20Cover/Jewel%20with%20the%20stars%20%5BFront%5D.jpg" width="300" alt="1. Jewel with the stars Front" /><br><sub><b>1. Jewel with the stars Front</b></sub> |  |
-
+| <img src="Jewel%20With%20The%20Stars%20%282006%29/Album%20Cover/Jewel%20with%20the%20stars%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ### 💿 CD Ripper & Preservation Credit
 
@@ -615,8 +664,9 @@ A critically acclaimed collaboration album conceived and produced by Iqbal Asif 
 
 ---
 
-<a id="13-live-now-2007"></a><a id="8-live-now-2007"></a><a id="11-live-now-2007"></a><a id="live-now-2007"></a>
-## 13. Live Now (লাইভ নাও) (2007)
+<a id="14-live-now"></a><a id="13-live-now-2007"></a><a id="8-live-now-2007"></a><a id="11-live-now-2007"></a><a id="live-now-2007"></a><a id="live-now"></a>
+## 14. Live Now (লাইভ নাও) (2007)
+
 - **Album:** Live Now (লাইভ নাও)
 - **Release Year:** 2007
 - **Record Label:** G-Series
@@ -655,7 +705,6 @@ A landmark 2007 compilation album presented by G-Series bringing together elite 
 | <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BBooklet-2%5D.jpg" width="300" alt="3. Booklet (Part 2)" /><br><sub><b>3. Booklet (Part 2)</b></sub> | <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BBooklet-3%5D.jpg" width="300" alt="4. Booklet (Part 3)" /><br><sub><b>4. Booklet (Part 3)</b></sub> |
 | <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BBooklet-4%5D.jpg" width="300" alt="5. Booklet (Part 4)" /><br><sub><b>5. Booklet (Part 4)</b></sub> | <img src="Live%20Now%20%282007%29/Album%20Cover/Live%20Now%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Khudadad Towhid
@@ -663,8 +712,9 @@ A landmark 2007 compilation album presented by G-Series bringing together elite 
 
 ---
 
-<a id="14-neon-aloy-shagotom-2007"></a><a id="9-neon-aloy-shagotom-2007"></a><a id="neon-aloy-shagotom-2007"></a>
-## 14. Neon Aloy Shagotom (নিয়ন আলোয় স্বাগতম) (2007)
+<a id="15-neon-aloy-shagotom"></a><a id="14-neon-aloy-shagotom-2007"></a><a id="9-neon-aloy-shagotom-2007"></a><a id="neon-aloy-shagotom-2007"></a><a id="neon-aloy-shagotom"></a>
+## 15. Neon Aloy Shagotom (নিয়ন আলোয় স্বাগতম) (2007)
+
 - **Album:** Neon Aloy Shagotom (নিয়ন আলোয় স্বাগতম)
 - **Release Year:** 2007
 - **Record Label:** G-Series
@@ -703,7 +753,6 @@ A pathbreaking alternative and indie rock compilation released in 2007 by G-Seri
 | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BCD%5D.jpg" width="300" alt="7. Compact Disc (CD)" /><br><sub><b>7. Compact Disc (CD)</b></sub> | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BInlay-Back%5D.jpg" width="300" alt="8. Back Inset" /><br><sub><b>8. Back Inset</b></sub> |
 | <img src="Neon%20Aloy%20Shagotom%20%282007%29/Album%20Cover/Neon%20Aloy%20Shagotom%20%5BBack%5D.jpg" width="300" alt="9. Back Cover" /><br><sub><b>9. Back Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Khudadad Towhid
@@ -711,8 +760,9 @@ A pathbreaking alternative and indie rock compilation released in 2007 by G-Seri
 
 ---
 
-<a id="15-shopnochura-3-2007"></a><a id="10-shopnochura-3-2007"></a><a id="shopnochura-3-2007"></a>
-## 15. Shopnochura 3 (স্বপ্নচূড়া ৩) (2007)
+<a id="16-shopnochura-3"></a><a id="15-shopnochura-3-2007"></a><a id="10-shopnochura-3-2007"></a><a id="shopnochura-3-2007"></a><a id="shopnochura-3"></a>
+## 16. Shopnochura 3 (স্বপ্নচূড়া ৩) (2007)
+
 - **Album:** Shopnochura 3 (স্বপ্নচূড়া ৩)
 - **Release Year:** 2007
 - **Record Label:** G-Series
@@ -754,7 +804,6 @@ The celebrated third edition of the *Shopnochura* series, released in 2007 under
 | <img src="Shopnochura%203%20%282007%29/Album%20Cover/Shopnochura%203%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Shopnochura%203%20%282007%29/Album%20Cover/Shopnochura%203%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 | <img src="Shopnochura%203%20%282007%29/Album%20Cover/Shopnochura%203%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Khudadad Towhid
@@ -762,8 +811,9 @@ The celebrated third edition of the *Shopnochura* series, released in 2007 under
 
 ---
 
-<a id="16-jhalmuri-1-2007"></a><a id="jhalmuri-1-2007"></a><a id="16-jhalmuri-2007"></a><a id="jhalmuri-2007"></a><a id="jhalmuri"></a>
-## 16. Jhalmuri 1 (ঝালমুড়ি ১) (2007)
+<a id="17-jhalmuri-1"></a><a id="16-jhalmuri-1-2007"></a><a id="jhalmuri-1-2007"></a><a id="16-jhalmuri-2007"></a><a id="jhalmuri-2007"></a><a id="jhalmuri"></a><a id="jhalmuri-1"></a>
+## 17. Jhalmuri 1 (ঝালমুড়ি ১) (2007)
+
 - **Album:** Jhalmuri (ঝালমুড়ি) — Vol. 1
 - **Release Year:** 2007
 - **Concept, Arrangements & Music Direction:** Shayan Chowdhury Arnob
@@ -804,8 +854,9 @@ Conceived, arranged, and directed by Shayan Chowdhury Arnob and released in 2007
 
 ---
 
-<a id="17-jhalmuri-2-2007"></a><a id="jhalmuri-2-2007"></a>
-## 17. Jhalmuri 2 (ঝালমুড়ি ২) (2007)
+<a id="18-jhalmuri-2"></a><a id="17-jhalmuri-2-2007"></a><a id="jhalmuri-2-2007"></a><a id="jhalmuri-2"></a>
+## 18. Jhalmuri 2 (ঝালমুড়ি ২) (2007)
+
 - **Album:** Jhalmuri (ঝালমুড়ি) — Vol. 2
 - **Release Year:** 2007
 - **Concept, Arrangements & Music Direction:** Shayan Chowdhury Arnob
@@ -844,8 +895,11 @@ Conceived, arranged, and directed by Shayan Chowdhury Arnob and released in 2007
 - **Preserved & Ripped by:** Bangla Flac Community / Bengal Music Digital Archive
 - **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
-<a id="18-bonno-2008"></a><a id="16-bonno-2008"></a><a id="11-bonno-2008"></a><a id="14-bonno-2008"></a><a id="bonno-2008"></a>
-## 18. Bonno (বন্য) (2008)
+---
+
+<a id="19-bonno"></a><a id="18-bonno-2008"></a><a id="16-bonno-2008"></a><a id="11-bonno-2008"></a><a id="14-bonno-2008"></a><a id="bonno-2008"></a><a id="bonno"></a>
+## 19. Bonno (বন্য) (2008)
+
 - **Album:** Bonno (বন্য) (Fuad feat. Various Artists)
 - **Release Year:** 2008
 - **Record Label:** G-Series
@@ -888,7 +942,6 @@ Fuad Al-Muqtadir's acclaimed 2008 collaborative album featuring dynamic genre-bl
 | :---: | :---: |
 | <img src="Bonno%20%282008%29/Album%20Cover/Bonno%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Radiohead
@@ -896,8 +949,9 @@ Fuad Al-Muqtadir's acclaimed 2008 collaborative album featuring dynamic genre-bl
 
 ---
 
-<a id="19-rock-101-2008"></a><a id="18-rock-101-2008"></a><a id="12-rock-101-2008"></a><a id="15-rock-101-2008"></a><a id="rock-101-2008"></a>
-## 19. Rock 101 (রক ১০১) (2008)
+<a id="20-rock-101"></a><a id="19-rock-101-2008"></a><a id="18-rock-101-2008"></a><a id="12-rock-101-2008"></a><a id="15-rock-101-2008"></a><a id="rock-101-2008"></a><a id="rock-101"></a>
+## 20. Rock 101 (রক ১০১) (2008)
+
 - **Album:** Rock 101 (রক ১০১)
 - **Release Year:** 2008
 - **Record Label:** Soundtek
@@ -932,7 +986,6 @@ A powerhouse 2008 Bangladeshi rock compilation album featuring heavyweight track
 | :---: | :---: |
 | <img src="Rock%20101%20%282008%29/Album%20Cover/Rock%20101%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Rienhart
@@ -940,8 +993,9 @@ A powerhouse 2008 Bangladeshi rock compilation album featuring heavyweight track
 
 ---
 
-<a id="20-rock-202-2009"></a><a id="19-rock-202-2009"></a><a id="13-rock-202-2009"></a><a id="rock-202-2009"></a>
-## 20. Rock 202 (রক ২০২) (2009)
+<a id="21-rock-202"></a><a id="20-rock-202-2009"></a><a id="19-rock-202-2009"></a><a id="13-rock-202-2009"></a><a id="rock-202-2009"></a><a id="rock-202"></a>
+## 21. Rock 202 (রক ২০২) (2009)
+
 - **Album:** Rock 202 (রক ২০২)
 - **Release Year:** 2009
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
@@ -980,7 +1034,6 @@ The powerful second volume of the *Rock* compilation series released in 2009. Pa
 | :---: | :---: |
 | <img src="Rock%20202%20%282009%29/Album%20Cover/Rock%20202%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
@@ -988,8 +1041,9 @@ The powerful second volume of the *Rock* compilation series released in 2009. Pa
 
 ---
 
-<a id="21-rock-303-2009"></a><a id="20-rock-303-2009"></a><a id="14-rock-303-2009"></a><a id="rock-303-2009"></a>
-## 21. Rock 303 (রক ৩০৩) (2009)
+<a id="22-rock-303"></a><a id="21-rock-303-2009"></a><a id="20-rock-303-2009"></a><a id="14-rock-303-2009"></a><a id="rock-303-2009"></a><a id="rock-303"></a>
+## 22. Rock 303 (রক ৩০৩) (2009)
+
 - **Album:** Rock 303 (রক ৩০৩)
 - **Release Year:** 2009
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
@@ -1028,7 +1082,6 @@ The third volume in the *Rock* series, delivering 14 heavy progressive rock and 
 | :---: | :---: |
 | <img src="Rock%20303%20%282009%29/Album%20Cover/Rock%20303%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
@@ -1036,8 +1089,9 @@ The third volume in the *Rock* series, delivering 14 heavy progressive rock and 
 
 ---
 
-<a id="22-rock-404-2010"></a><a id="21-rock-404-2010"></a><a id="15-rock-404-2010"></a><a id="rock-404-2010"></a>
-## 22. Rock 404 (রক ৪০৪) (2010)
+<a id="23-rock-404"></a><a id="22-rock-404-2010"></a><a id="21-rock-404-2010"></a><a id="15-rock-404-2010"></a><a id="rock-404-2010"></a><a id="rock-404"></a>
+## 23. Rock 404 (রক ৪০৪) (2010)
+
 - **Album:** Rock 404 (রক ৪০৪)
 - **Release Year:** 2010
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
@@ -1077,7 +1131,6 @@ The explosive fourth volume of the *Rock* series released in 2010, featuring 15 
 | :---: | :---: |
 | <img src="Rock%20404%20%282010%29/Album%20Cover/Rock%20404%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
@@ -1085,8 +1138,9 @@ The explosive fourth volume of the *Rock* series released in 2010, featuring 15 
 
 ---
 
-<a id="23-rock-505-2010"></a><a id="22-rock-505-2010"></a><a id="16-rock-505-2010"></a><a id="rock-505-2010"></a>
-## 23. Rock 505 (রক ৫০৫) (2010)
+<a id="24-rock-505"></a><a id="23-rock-505-2010"></a><a id="22-rock-505-2010"></a><a id="16-rock-505-2010"></a><a id="rock-505-2010"></a><a id="rock-505"></a>
+## 24. Rock 505 (রক ৫০৫) (2010)
+
 - **Album:** Rock 505 (রক ৫০৫)
 - **Release Year:** 2010
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
@@ -1126,7 +1180,6 @@ The fifth edition of the powerhouse *Rock* compilation series featuring 15 relen
 | :---: | :---: |
 | <img src="Rock%20505%20%282010%29/Album%20Cover/Rock%20505%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
@@ -1134,8 +1187,9 @@ The fifth edition of the powerhouse *Rock* compilation series featuring 15 relen
 
 ---
 
-<a id="24-rock-606-2011"></a><a id="23-rock-606-2011"></a><a id="18-rock-606-2011"></a><a id="16-rock-606-2011"></a><a id="rock-606-2011"></a>
-## 24. Rock 606 (রক ৬০৬) (2011)
+<a id="25-rock-606"></a><a id="24-rock-606-2011"></a><a id="23-rock-606-2011"></a><a id="18-rock-606-2011"></a><a id="16-rock-606-2011"></a><a id="rock-606-2011"></a><a id="rock-606"></a>
+## 25. Rock 606 (রক ৬০৬) (2011)
+
 - **Album:** Rock 606 (রক ৬০৬)
 - **Release Year:** 2011
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
@@ -1175,7 +1229,6 @@ A high-octane 2011 Bangladeshi rock compilation featuring 16 dynamic bands, high
 | :---: | :---: |
 | <img src="Rock%20606%20%282011%29/Album%20Cover/Rock%20606%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
@@ -1183,8 +1236,9 @@ A high-octane 2011 Bangladeshi rock compilation featuring 16 dynamic bands, high
 
 ---
 
-<a id="25-rock-707-2011"></a><a id="24-rock-707-2011"></a><a id="19-rock-707-2011"></a><a id="rock-707-2011"></a>
-## 25. Rock 707 (রক ৭০৭) (2011)
+<a id="26-rock-707"></a><a id="25-rock-707-2011"></a><a id="24-rock-707-2011"></a><a id="19-rock-707-2011"></a><a id="rock-707-2011"></a><a id="rock-707"></a>
+## 26. Rock 707 (রক ৭০৭) (2011)
+
 - **Album:** Rock 707 (রক ৭০৭)
 - **Release Year:** 2011
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
@@ -1225,7 +1279,6 @@ The seventh volume of the legendary *Rock* series released in 2011, featuring 16
 | :---: | :---: |
 | <img src="Rock%20707%20%282011%29/Album%20Cover/Rock%20707%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
@@ -1233,8 +1286,44 @@ The seventh volume of the legendary *Rock* series released in 2011, featuring 16
 
 ---
 
-<a id="26-shomorpon-2011"></a><a id="25-shomorpon-2011"></a><a id="20-shomorpon-2011"></a><a id="shomorpon-2011"></a>
-## 26. Shomorpon (সমর্পণ) (2011)
+<a id="27-republic---a-band-compilation"></a><a id="republic-a-band-compilation-2011"></a><a id="republic---a-band-compilation"></a>
+## 27. Republic - A Band Compilation (2011)
+
+- **Album:** Republic - A Band Compilation
+- **Release Year:** 2011
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+### 📖 About the Album
+Released in 2011, *Republic - A Band Compilation* brought together fifteen emerging heavy metal, progressive, and alternative rock acts from Bangladesh's fierce underground scene. Featuring blazing guitar work, thunderous double bass drums, and biting vocal performances, the compilation documents an essential chapter in Dhaka underground metal and rock history, featuring tracks from Karnival (*"Bikrito Dristi"*), Owned (*"Niroporadh"*), Chromatic Massacre, and GrooveTrap.
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Chromatic Massacre - Riot of Blood**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/01%20Riot%20of%20Blood.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/01%20Riot%20of%20Blood.flac?download=true)
+- [**GrooveTrap - Limelight**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/02%20Limelight.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/02%20Limelight.flac?download=true)
+- [**Scarecrow - Sesh Shimana**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/03%20Sesh%20Shimana.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/03%20Sesh%20Shimana.flac?download=true)
+- [**Crematic-X - Tomay Vebe**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/04%20Tomay%20Vebe.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/04%20Tomay%20Vebe.flac?download=true)
+- [**Satanik - Azrael**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/05%20Azrael.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/05%20Azrael.flac?download=true)
+- [**Owned - Niroporadh**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/06%20Niroporadh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/06%20Niroporadh.flac?download=true)
+- [**Cadaver - Porittakto**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/07%20Porittakto.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/07%20Porittakto.flac?download=true)
+- [**Ostitto - Menes**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/08%20Menes.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/08%20Menes.flac?download=true)
+- [**Strident - Until It Bleeds**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/09%20Until%20It%20Bleeds.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/09%20Until%20It%20Bleeds.flac?download=true)
+- [**Nil - Bristi Snato**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/10%20Bristi%20Snato.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/10%20Bristi%20Snato.flac?download=true)
+- [**Jahiliyyah - Ave Misanthropy**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/11%20Ave%20Misanthropy.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/11%20Ave%20Misanthropy.flac?download=true)
+- [**Necromaniac - Bikrito Rupantor**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/12%20Bikrito%20Rupantor.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/12%20Bikrito%20Rupantor.flac?download=true)
+- [**Story Tellers - Akrosh**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/13%20Akrosh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/13%20Akrosh.flac?download=true)
+- [**Karnival - Bikrito Dristi**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/14%20Bikrito%20Dristi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/14%20Bikrito%20Dristi.flac?download=true)
+- [**Sent Men Revolt - Kalodesh**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/15%20Kalodesh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Republic%20-%20A%20Band%20Compilation%20%282011%29/15%20Kalodesh.flac?download=true)
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Underground Metal Audio Community
+- **Source:** Lossless FLAC Master Archive
+
+---
+
+<a id="28-shomorpon"></a><a id="26-shomorpon-2011"></a><a id="25-shomorpon-2011"></a><a id="20-shomorpon-2011"></a><a id="shomorpon-2011"></a><a id="shomorpon"></a>
+## 28. Shomorpon (সমর্পণ) (2011)
+
 - **Album:** Shomorpon (সমর্পণ)
 - **Release Year:** 2011
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
@@ -1266,7 +1355,6 @@ A landmark 2011 tribute compilation album dedicated to mystic bards **Lalon Shah
 | :---: | :---: |
 | <img src="Shomorpon%20%282011%29/Album%20Cover/Shomorpon%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** NirZak (Nirjas Jakilim)
@@ -1274,8 +1362,9 @@ A landmark 2011 tribute compilation album dedicated to mystic bards **Lalon Shah
 
 ---
 
-<a id="27-hatiar-2012"></a><a id="26-hatiar-2012"></a><a id="21-hatiar-2012"></a><a id="18-hatiar-2012"></a><a id="hatiar-2012"></a>
-## 27. Hatiar (হাতিয়ার) (2012)
+<a id="29-hatiar"></a><a id="27-hatiar-2012"></a><a id="26-hatiar-2012"></a><a id="21-hatiar-2012"></a><a id="18-hatiar-2012"></a><a id="hatiar-2012"></a><a id="hatiar"></a>
+## 29. Hatiar (হাতিয়ার) (2012)
+
 - **Album:** Hatiar (হাতিয়ার) — *The Largest Band Mixed Album in History*
 - **Release Year:** 2012
 - **Coordinator:** Duray
@@ -1375,7 +1464,6 @@ Released in October 2012 under G-Series and coordinated by Duray, *Hatiar* (*"Th
 | <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BCD%5D.jpg" width="300" alt="2. Compact Disc (CD)" /><br><sub><b>2. Compact Disc (CD)</b></sub> |
 | <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BBack%5D.jpg" width="300" alt="3. Back Cover" /><br><sub><b>3. Back Cover</b></sub> | <img src="Hatiar%20%282012%29/Album%20Cover/Hatiar%20%5BInlet%5D.jpg" width="300" alt="4. Hatiar [Inlet]" /><br><sub><b>4. Hatiar [Inlet]</b></sub> |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Anjan (@Ferezz98) / Shared by Saif
@@ -1383,8 +1471,9 @@ Released in October 2012 under G-Series and coordinated by Duray, *Hatiar* (*"Th
 
 ---
 
-<a id="28-shopnochura-4-2014"></a><a id="27-shopnochura-4-2014"></a><a id="22-shopnochura-4-2014"></a><a id="shopnochura-4-2014"></a>
-## 28. Shopnochura 4 (স্বপ্নচূড়া ৪) (2014)
+<a id="30-shopnochura-4"></a><a id="28-shopnochura-4-2014"></a><a id="27-shopnochura-4-2014"></a><a id="22-shopnochura-4-2014"></a><a id="shopnochura-4-2014"></a><a id="shopnochura-4"></a>
+## 30. Shopnochura 4 (স্বপ্নচূড়া ৪) (2014)
+
 - **Album:** Shopnochura 4 (স্বপ্নচূড়া ৪)
 - **Release Year:** 2014
 - **Record Label:** G-Series
@@ -1421,7 +1510,6 @@ Released in 2014 under G-Series and coordinated by Tony, *Shopnochura 4* marked 
 | :---: | :---: |
 | <img src="Shopnochura%204%20%282014%29/Album%20Cover/Shopnochura%204%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Khudadad Towhid
@@ -1429,8 +1517,9 @@ Released in 2014 under G-Series and coordinated by Tony, *Shopnochura 4* marked 
 
 ---
 
-<a id="29-riotous-14-2015"></a><a id="28-riotous-14-2015"></a><a id="31-riotous-14-2015"></a><a id="riotous-14-2015"></a>
-## 29. Riotous 14 (2015)
+<a id="31-riotous-14"></a><a id="29-riotous-14-2015"></a><a id="28-riotous-14-2015"></a><a id="31-riotous-14-2015"></a><a id="riotous-14-2015"></a><a id="riotous-14"></a>
+## 31. Riotous 14 (2015)
+
 - **Album:** Riotous 14 (2015)
 - **Release Year:** 2015
 - **Record Label:** Incursion Music
@@ -1464,8 +1553,7 @@ A fierce 14-track metal collection released in 2015 by Incursion Music, opening 
 
 | | |
 | :---: | :---: |
-| <img src="Riotous%2014%20%282015%29/Album%20Cover/Riotous%2014%20%5BFront%5D.jpg" width="300" alt="1. Riotous 14 Front" /><br><sub><b>1. Riotous 14 Front</b></sub> |  |
-
+| <img src="Riotous%2014%20%282015%29/Album%20Cover/Riotous%2014%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ### 💿 CD Ripper & Preservation Credit
 
@@ -1474,8 +1562,9 @@ A fierce 14-track metal collection released in 2015 by Incursion Music, opening 
 
 ---
 
-<a id="30-rock-808-2015"></a><a id="29-rock-808-2015"></a><a id="23-rock-808-2015"></a><a id="rock-808-2015"></a>
-## 30. Rock 808 (রক ৮০৮) (2015)
+<a id="32-rock-808"></a><a id="30-rock-808-2015"></a><a id="29-rock-808-2015"></a><a id="23-rock-808-2015"></a><a id="rock-808-2015"></a><a id="rock-808"></a>
+## 32. Rock 808 (রক ৮০৮) (2015)
+
 - **Album:** Rock 808 (রক ৮০৮)
 - **Release Year:** 2015
 - **Audio Quality:** Transcoded Audio (16 kHz shelf cutoff / 16 cut - Lossy version)
@@ -1513,7 +1602,6 @@ The eighth installment of the *Rock* compilation series released in 2015, featur
 | :---: | :---: |
 | <img src="Rock%20808%20%282015%29/Album%20Cover/Rock%20808%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
@@ -1521,8 +1609,9 @@ The eighth installment of the *Rock* compilation series released in 2015, featur
 
 ---
 
-<a id="31-rock-909-2015"></a><a id="30-rock-909-2015"></a><a id="24-rock-909-2015"></a><a id="rock-909-2015"></a>
-## 31. Rock 909 (রক ৯০৯) (2015)
+<a id="33-rock-909"></a><a id="31-rock-909-2015"></a><a id="30-rock-909-2015"></a><a id="24-rock-909-2015"></a><a id="rock-909-2015"></a><a id="rock-909"></a>
+## 33. Rock 909 (রক ৯০৯) (2015)
+
 - **Album:** Rock 909 (রক ৯০৯)
 - **Release Year:** 2015
 - **Audio Quality:** Transcoded Audio (16 kHz shelf cutoff / 16 cut - Lossy version)
@@ -1561,7 +1650,6 @@ The ninth installment of the *Rock* compilation series, featuring 12 heavy alter
 | :---: | :---: |
 | <img src="Rock%20909%20%282015%29/Album%20Cover/Rock%20909%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
@@ -1569,8 +1657,9 @@ The ninth installment of the *Rock* compilation series, featuring 12 heavy alter
 
 ---
 
-<a id="32-rock-x0x-2015"></a><a id="31-rock-x0x-2015"></a><a id="25-rock-x0x-2015"></a><a id="rock-x0x-2015"></a>
-## 32. Rock X0X (রক ১০১০) (2015)
+<a id="34-rock-x0x"></a><a id="32-rock-x0x-2015"></a><a id="31-rock-x0x-2015"></a><a id="25-rock-x0x-2015"></a><a id="rock-x0x-2015"></a><a id="rock-x0x"></a>
+## 34. Rock X0X (রক ১০১০) (2015)
+
 - **Album:** Rock X0X (রক ১০১০)
 - **Release Year:** 2015
 - **Audio Quality:** Transcoded Audio (16 kHz shelf cutoff / 16 cut - Lossy version)
@@ -1607,7 +1696,6 @@ The milestone tenth volume of the *Rock* series, delivering 11 tracks including 
 | :---: | :---: |
 | <img src="Rock%20X0X%20%282015%29/Album%20Cover/Rock%20X0X%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** dBpoweramp AccurateRip Rig
@@ -1615,8 +1703,9 @@ The milestone tenth volume of the *Rock* series, delivering 11 tracks including 
 
 ---
 
-<a id="33-deep-nevar-age-2015"></a><a id="32-deep-nevar-age-2015"></a><a id="deep-nevar-age-2015"></a>
-## 33. Deep Nevar Age (দীপ নেভার আগে) (2015)
+<a id="35-deep-nevar-age"></a><a id="33-deep-nevar-age-2015"></a><a id="32-deep-nevar-age-2015"></a><a id="deep-nevar-age-2015"></a><a id="deep-nevar-age"></a>
+## 35. Deep Nevar Age (দীপ নেভার আগে) (2015)
+
 - **Album:** Deep Nevar Age (দীপ নেভার আগে) (2015)
 - **Release Year:** 2015
 - **Record Label:** Gaanchill Music
@@ -1643,12 +1732,14 @@ A landmark 2015 collaborative alternative rock and contemporary album released u
 
 | | |
 | :---: | :---: |
-| <img src="Deep%20Nevar%20Age%20%282015%29/Album%20Cover/Deep%20Nevar%20Age%20%5BFront%5D.jpg" width="300" alt="1. Deep Nevar Age Front" /><br><sub><b>1. Deep Nevar Age Front</b></sub> |  |
+| <img src="Deep%20Nevar%20Age%20%282015%29/Album%20Cover/Deep%20Nevar%20Age%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Gaanchill Music Digital Archive / Bangla Flac Community
 - **Source:** Original Digital Master / Compact Disc Lossless Audio Archive
+
+---
 
 ### 📦 Git LFS & Downloading Audio
 
